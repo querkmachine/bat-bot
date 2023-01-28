@@ -12,7 +12,7 @@ const M = new Masto({
   api_url: process.env.MASTO_API_ENDPOINT,
 });
 
-let status += `${image.common_name.trim()} `;
+let status = `${image.common_name.trim()} `;
 if (image.scientific_name && image.common_name !== image.scientific_name) {
   status += `(${image.scientific_name.trim()}) `;
 }
