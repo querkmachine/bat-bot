@@ -29,6 +29,8 @@ M.post("media", {
   }).then(res => {
 		console.log(res.data)
 	}).catch(err => {
-		console.log(err)
+		throw new Error(err)
 	});
+}).catch(err => {
+	throw new Error(err)
 });
