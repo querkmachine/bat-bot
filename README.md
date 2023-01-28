@@ -1,6 +1,6 @@
 # 🦇 Mastodon Batbot
 
-[@batsbatsbats@botsin.space](https://botsin.space/@batsbatsbats) on the Fediverse!
+**Follow [@batsbatsbats@botsin.space](https://botsin.space/@batsbatsbats) on the Fediverse!**
 
 A simple bit o' code that uses GitHub Actions to post a random, freely distributable bat picture onto a Mastodon account once an hour.
 
@@ -15,6 +15,8 @@ Bats are neat as heck. After I left Twitter in favour of the fediverse, I missed
 **Bat welfare:** In cases where a bat is being directly handled by a person, I've done my best to ensure that the people involved are biologists, zoologists, veterinarians, or other professionals likely to know what they're doing (not just random people).
 
 **Randomness:** Images are selected at random. This means some images may take a long time to be picked and there is a high likeliness of repeats. I couldn't be bothered adding a way of tracking which ones had already been used. Hopefully the size of the dataset makes any repetition not _too_ obvious. 
+
+**Scheduling:** The bot uses GitHub Actions to schedule posts once an hour. Actions, however, is not particularly prompt. It's more like joining the back of a queue once an hour, and the length of that queue could be different on different days and at different times of day. Given this is just a silly bot and I don't want to run my own daemon just for it, the goal is to be roughly every hour, but it's never going to be exact. 
 
 **Alt text:** Manually collating hundreds of bat photographs, names, photographers and licensing information is already time consuming enough. Unfortunately, adding meaningful alt text for every single one of those photos is fairly low on the priority list. It sucks, I know. I'm sorry.
 
