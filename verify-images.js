@@ -17,7 +17,7 @@ data.forEach((image) => {
 });
 
 if (failures > 0) {
-  console.warn(`⚠️ ${failures} image(s) could not be verified.`);
+  throw new Error(`⚠️ ${failures} image(s) could not be verified.`);
 } else {
   console.log("✅ All images verified.");
 }
