@@ -2,7 +2,7 @@ name: Post to Mastodon
 
 on:
   schedule:
-    - cron: '59 0/1 * * *'
+    - cron: "59 0/1 * * *"
   workflow_dispatch:
 
 concurrency:

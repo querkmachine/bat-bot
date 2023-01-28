@@ -20,17 +20,21 @@ status += `\n\n📸 ${image.attribution.trim()}`;
 
 M.post("media", {
   file: fs.createReadStream("./images/" + image.file),
-	description: image.common_name.trim(),
-}).then((res) => {
-  const id = res.data.id;
-  M.post("statuses", {
-    status: status,
-    media_ids: [id],
-  }).then(res => {
-		console.log(res.data)
-	}).catch(err => {
-		throw new Error(err)
-	});
-}).catch(err => {
-	throw new Error(err)
-});
+  description: image.common_name.trim(),
+})
+  .then((res) => {
+    const id = res.data.id;
+    M.post("statuses", {
+      status: status,
+      media_ids: [id],
+    })
+      .then((res) => {
+        console.log(res.data);
+      })
+      .catch((err) => {
+        throw new Error(err);
+      });
+  })
+  .catch((err) => {
+    throw new Error(err);
+  });

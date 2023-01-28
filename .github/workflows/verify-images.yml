@@ -5,8 +5,8 @@ on:
     branches:
       - main
     paths:
-      - 'images/**'
-      - 'data.json'
+      - "images/**"
+      - "data.json"
   workflow_dispatch:
 
 concurrency:
