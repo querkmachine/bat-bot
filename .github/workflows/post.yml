@@ -25,3 +25,6 @@ jobs:
         uses: ./.github/workflows/actions/install-dependencies
       - name: Post to Mastodon
         run: npm run post
+        env:
+          MASTO_ACCESS_TOKEN: ${{ secrets.MASTO_ACCESS_TOKEN }}
+          MASTO_API_ENDPOINT: ${{ secrets.MASTO_API_ENDPOINT }}
