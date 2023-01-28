@@ -1,0 +1,27 @@
+name: Post to Mastodon
+
+on:
+  schedule:
+    - cron: '59 0/1 * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: post
+  cancel-in-progress: false
+
+jobs:
+  post:
+    name: Post to Mastodon
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: .nvmrc
+          cache-dependency-path: ${{ env.BUILD_PATH }}/package-lock.json
+      - name: Install dependencies
+        uses: ./.github/workflows/actions/install-dependencies
+      - name: Post to Mastodon
+        run: npm run post

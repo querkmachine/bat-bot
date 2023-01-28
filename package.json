@@ -1,0 +1,16 @@
+{
+  "name": "mastodon-batbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "post": "node index.js",
+    "verify-images": "node verify-images.js"
+  },
+  "author": "beeps <hi@berly.kim>",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "mastodon": "^1.2.2"
+  }
+}

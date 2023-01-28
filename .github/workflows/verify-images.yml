@@ -1,0 +1,31 @@
+name: Verify images
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'images/**'
+      - 'data.json'
+  workflow_dispatch:
+
+concurrency:
+  group: verify-images
+  cancel-in-progress: true
+
+jobs:
+  verify-images:
+    name: Setup
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version-file: .nvmrc
+          cache-dependency-path: ${{ env.BUILD_PATH }}/package-lock.json
+      - name: Install dependencies
+        uses: ./.github/workflows/actions/install-dependencies
+      - name: Verify images
+        run: npm run verify-images
