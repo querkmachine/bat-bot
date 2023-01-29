@@ -1,26 +1,33 @@
-require("dotenv").config();
-const fs = require("fs");
-const Masto = require("mastodon");
+import * as dotenv from "dotenv";
+import fs from "node:fs";
+import mastodonApi from "mastodon";
+import random from "random";
 
-const datalist = require("./data.json");
-const image = datalist[Date.now() % datalist.length];
+dotenv.config();
 
-console.log(image);
+const datalist = JSON.parse(fs.readFileSync("./data.json"));
+const imageMetadata = random.choice(datalist);
+const imageFile = fs.createReadStream("./images/" + imageMetadata.file);
 
-const M = new Masto({
+console.log({ imageMetadata });
+
+const M = new mastodonApi({
   access_token: process.env.MASTO_ACCESS_TOKEN,
   api_url: process.env.MASTO_API_ENDPOINT,
 });
 
-let status = `${image.common_name.trim()} `;
-if (image.scientific_name && image.common_name !== image.scientific_name) {
-  status += `(${image.scientific_name.trim()}) `;
+let status = `${imageMetadata.common_name.trim()} `;
+if (
+  imageMetadata.scientific_name &&
+  imageMetadata.common_name !== imageMetadata.scientific_name
+) {
+  status += `(${imageMetadata.scientific_name.trim()}) `;
 }
-status += `\n\n📸 ${image.attribution.trim()}`;
+status += `\n\n📸 ${imageMetadata.attribution.trim()}`;
 
 M.post("media", {
-  file: fs.createReadStream("./images/" + image.file),
-  description: image.common_name.trim(),
+  file: imageFile,
+  description: imageMetadata.common_name.trim(),
 })
   .then((res) => {
     const id = res.data.id;

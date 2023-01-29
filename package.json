@@ -2,7 +2,11 @@
   "name": "mastodon-batbot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "exports": "./index.js",
+  "type": "module",
+  "engines": {
+    "node": ">=14.17"
+  },
   "scripts": {
     "post": "node index.js",
     "verify-images": "node verify-images.js"
@@ -11,6 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.3",
-    "mastodon": "^1.2.2"
+    "mastodon": "^1.2.2",
+    "random": "^4.1.0"
   }
 }

@@ -1,5 +1,5 @@
-const fs = require("fs");
-const data = require("./data.json");
+import fs from "node:fs";
+const data = JSON.parse(fs.readFileSync("./data.json"));
 
 // Ensure that all of the images actually exist
 let i = 1;
