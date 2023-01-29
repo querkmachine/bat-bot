@@ -9,7 +9,7 @@
   },
   "author": "beeps <hi@berly.kim>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "dotenv": "^16.0.3",
     "mastodon": "^1.2.2"
   }
