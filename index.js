@@ -7,6 +7,8 @@ dotenv.config();
 
 const datalist = JSON.parse(fs.readFileSync("./data.json"));
 const imageMetadata = random.choice(datalist);
+const imageAltText =
+  imageMetadata.image_description?.trim() || imageMetadata.common_name?.trim();
 const imageFile = fs.createReadStream("./images/" + imageMetadata.file);
 
 console.log({ imageMetadata });
@@ -24,10 +26,15 @@ if (
   status += `(${imageMetadata.scientific_name.trim()}) `;
 }
 status += `\n\n📸 ${imageMetadata.attribution.trim()}`;
+if (!imageMetadata.image_description) {
+  status += `\n\n💬 Suggest alt text: https://github.com/querkmachine/bat-bot/issues/new?labels=image+description&template=image-description.yml&title=Image+description%3A+${encodeURI(
+    imageMetadata.file
+  )}&filename=${encodeURI(imageMetadata.file)}`;
+}
 
 M.post("media", {
   file: imageFile,
-  description: imageMetadata.common_name.trim(),
+  description: imageAltText,
 })
   .then((res) => {
     const id = res.data.id;
