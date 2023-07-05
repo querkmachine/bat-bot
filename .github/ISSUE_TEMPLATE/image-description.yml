@@ -1,0 +1,22 @@
+name: Suggest an image description ("alt text")
+description: Describe a bat for screen reader and assistive technology users.
+labels: ["image description"]
+title: "Image description: "
+assignees:
+  - querkmachine
+
+body:
+  - type: input
+    id: filename
+    attributes:
+      label: Which image is this for?
+      description: Provide the filename of the image you're suggesting a description for.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: What is your suggested image description?
+      description: Remember to keep descriptions [specific, concise, and contextual](https://design102.blog.gov.uk/2022/01/14/whats-the-alternative-how-to-write-good-alt-text/).
+    validations:
+      required: true
