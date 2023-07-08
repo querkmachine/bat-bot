@@ -13,10 +13,16 @@ body:
       description: Provide the filename of the image you're suggesting a description for.
     validations:
       required: true
+  - type: markdown
+    attributes:
+      value: |
+        ## Advice for writing descriptive text
+        - Be sure to describe what the bat looks like. A person with vision loss may not be able to tell from the image.
+        - You don't need to include the bat's species in the description. This will already be part of the post's text.
+        - Remember to keep descriptions [specific, concise, and contextual](https://design102.blog.gov.uk/2022/01/14/whats-the-alternative-how-to-write-good-alt-text/).
   - type: textarea
     id: description
     attributes:
       label: What is your suggested image description?
-      description: Remember to keep descriptions [specific, concise, and contextual](https://design102.blog.gov.uk/2022/01/14/whats-the-alternative-how-to-write-good-alt-text/).
     validations:
       required: true
