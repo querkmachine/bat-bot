@@ -1240,7 +1240,8 @@
     "file": "Pipistrellus pipistrellus 2.jpg",
     "attribution": "Gilles San Martin (CC BY-SA)",
     "common_name": "Common pipistrelle",
-    "scientific_name": "Pipistrellus pipistrellus"
+    "scientific_name": "Pipistrellus pipistrellus",
+    "image_description": "A very small bat with brown fur resting on the palm of a hand, nomming on a grub."
   },
   {
     "file": "Rhinolophus megaphyllus 1.jpg",
@@ -1504,7 +1505,8 @@
     "file": "Lasiurus semotus 2.jpg",
     "attribution": "U.S. Geological Survey (public domain)",
     "common_name": "Hawaiian hoary bat",
-    "scientific_name": "Lasiurus semotus"
+    "scientific_name": "Lasiurus semotus",
+    "image_description": "A small furred bat with rounded ears and a pert, upturned snout. The fur is mottled light and dark shades of brown with a distinct ruffle around the neck."
   },
   {
     "file": "Myotis septentrionalis 1.jpg",
