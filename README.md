@@ -18,7 +18,7 @@ Bats are neat as heck. After I left Twitter in favour of the fediverse, I missed
 
 **Scheduling:** The bot uses GitHub Actions to schedule posts once an hour. Actions, however, is not particularly prompt. It's more like joining the back of a queue once an hour, and the length of that queue could be different on different days and at different times of day. Given this is just a silly bot and I don't want to run my own daemon just for it, the goal is to be roughly every hour, but it's never going to be exact.
 
-**Alt text:** Manually collating hundreds of bat photographs, names, photographers and licensing information is already time consuming enough. Unfortunately, adding meaningful alt text for every single one of those photos is fairly low on the priority list. It sucks, I know. I'm sorry.
+**Alt text:** Manually collating hundreds of bat photographs, names, photographers and licensing information is already time consuming enough. Unfortunately, adding meaningful alt text for every single one of those photos is fairly low on the priority list. GitHub users can contribute alt text by [submitting an issue](https://github.com/querkmachine/bat-bot/issues/new/choose) or by clicking the link in the Mastodon post, but until then there's no alt text. It sucks, I know. I'm sorry.
 
 ## Questions, queries, issues, etc.
 
