@@ -29,3 +29,14 @@ You can get in touch by:
 - [Opening an issue on this GitHub repo](https://github.com/querkmachine/bat-bot/issues)
 - [Messaging me on my Mastodon account](https://chitter.xyz/@batbeeps)
 - [Emailing me](mailto:hi@berly.kim)
+
+## Contributors
+
+Thanks to the following folks for contributing alternate text:
+
+- @aaronhowe78
+- @brown-betty
+- @dlbradford
+- @nevillepark
+- @quicquid
+- @sirlan-ff00ff
