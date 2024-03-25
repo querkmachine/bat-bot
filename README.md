@@ -34,9 +34,10 @@ You can get in touch by:
 
 Thanks to the following folks for contributing alternate text:
 
-- @aaronhowe78
-- @brown-betty
-- @dlbradford
-- @nevillepark
-- @quicquid
-- @sirlan-ff00ff
+1. [brown-betty](https://github.com/brown-betty) - 8
+2. [nevillepark](https://github.com/nevillepark) - 4
+3. [aaronhowe78](https://github.com/aaronhowe78) - 3
+4. [anreji](https://github.com/anreji) - 1
+5. [dlbradford](https://github.com/dlbradford) - 1
+6. [quicquid](https://github.com/quicquid) - 1
+7. [sirlan-ff00ff](https://github.com/sirlan-ff00ff) - 1

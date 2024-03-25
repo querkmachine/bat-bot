@@ -27,7 +27,9 @@
     "file": "Rousettus aegyptiacus 1.jpg",
     "attribution": "MinoZig (CC BY-SA)",
     "common_name": "Egyptian fruit bat",
-    "scientific_name": "Rousettus aegyptiacus"
+    "scientific_name": "Rousettus aegyptiacus",
+    "image_description": "A group of around 20 grey bats hanging from a stone ceiling. The wings are a darker grey or black, while the fur is a light grey. Mostly only their heads are visible. Some of their eyes reflect the flash light.",
+    "image_description_users": ["anreji"]
   },
   {
     "file": "Rousettus aegyptiacus 2.jpg",
@@ -172,14 +174,16 @@
     "attribution": "Government of the Philippines (public domain)",
     "common_name": "Harpy fruit bat",
     "scientific_name": "Harpyionycteris whiteheadi",
-    "image_description": "A fruit bat fills the main part of the screen. Its body is mostly a furry brown, with the wings outstretched and translucent. In the background is some mountainous green landscape."
+    "image_description": "A fruit bat fills the main part of the screen. Its body is mostly a furry brown, with the wings outstretched and translucent. In the background is some mountainous green landscape.",
+    "image_description_users": ["dlbradford"]
   },
   {
     "file": "Nyctimene robinsoni 1.jpg",
     "attribution": "Markus Nolf (CC BY-SA)",
     "common_name": "Eastern tube-nosed bat",
     "scientific_name": "Nyctimene robinsoni",
-    "image_description": "A brown bat hanging in an inverted position. It has small ears which are edged with patches of white/pale skin. Its wings are also spotted with pale patches. It has light brown eyes, a shortened muzzle and elongated, tubular nostrils."
+    "image_description": "A brown bat hanging in an inverted position. It has small ears which are edged with patches of white/pale skin. Its wings are also spotted with pale patches. It has light brown eyes, a shortened muzzle and elongated, tubular nostrils.",
+    "image_description_users": ["aaronhowe78"]
   },
   {
     "file": "Acerodon celebensis 1.jpg",
@@ -480,7 +484,8 @@
     "attribution": "Rajesh Puttaswamaiah (CC BY-SA)",
     "common_name": "Cantor's roundleaf bat",
     "scientific_name": "Hipposideros galeritus",
-    "image_description": "A plump little bat with a pale belly and dark, velvety wings, hanging by its feet from a cave wall."
+    "image_description": "A plump little bat with a pale belly and dark, velvety wings, hanging by its feet from a cave wall.",
+    "image_description_users": ["nevillepark"]
   },
   {
     "file": "Hipposideros hypophyllus 1.jpg",
@@ -570,7 +575,9 @@
     "file": "Saccopteryx bilineata 1.jpg",
     "attribution": "Karin Schneeberger (CC BY-SA)",
     "common_name": "Greater sac-winged bat",
-    "scientific_name": "Saccopteryx bilineata"
+    "scientific_name": "Saccopteryx bilineata",
+    "image_description": "A bat hanging from a vertical surface. Its dark fur has two golden ripples going parallel down its back. Its little grippy toes are spread out, wings are folded next to it, and its face is pushed up like its doing cobra pose. Its curved mouth looks like it's smiling at the viewer.",
+    "image_description_users": ["brown-betty"]
   },
   {
     "file": "Saccopteryx bilineata 2.jpg",
@@ -672,7 +679,9 @@
     "file": "Myotis formosus 1.jpg",
     "attribution": "Feng-Chou Teng (CC BY)",
     "common_name": "Hodgson's bat",
-    "scientific_name": "Myotis formosus"
+    "scientific_name": "Myotis formosus",
+    "image_description": "Over a dozen small pale bats, packed in the spaces between some leaves on a plant. The bats are straw coloured, with pink faces and wing-tips, and the effect of multiple bats packed together is a bit like seeing a bat-coloured hydrangea blossom.",
+    "image_description_users": ["brown-betty"]
   },
   {
     "file": "Myotis alcathoe 1.jpg",
@@ -1243,7 +1252,8 @@
     "attribution": "Gilles San Martin (CC BY-SA)",
     "common_name": "Common pipistrelle",
     "scientific_name": "Pipistrellus pipistrellus",
-    "image_description": "A very small bat with brown fur resting on the palm of a hand, nomming on a grub."
+    "image_description": "A very small bat with brown fur resting on the palm of a hand, nomming on a grub.",
+    "image_description_users": ["sirlan-ff00ff"]
   },
   {
     "file": "Rhinolophus megaphyllus 1.jpg",
@@ -1286,7 +1296,8 @@
     "attribution": "Nils Bouillard (Unsplash)",
     "common_name": "Sulawesi flying fox",
     "scientific_name": "Acerodon celebensis",
-    "image_description": "A handsome tan bat with a long canine snout and wide brown eyes, hanging upside down from a leafy tree branch in the sun."
+    "image_description": "A handsome tan bat with a long canine snout and wide brown eyes, hanging upside down from a leafy tree branch in the sun.",
+    "image_description_users": ["nevillepark"]
   },
   {
     "file": "Plecotus auritus 3.jpg",
@@ -1347,7 +1358,8 @@
     "attribution": "Hi-tanio (CC BY-SA)",
     "common_name": "Eastern bent-wing bat",
     "scientific_name": "Miniopterus fuliginosus",
-    "image_description": "A plump bat with glossy chocolate-brown fur, wings folded, clinging to a wall with its back feet."
+    "image_description": "A plump bat with glossy chocolate-brown fur, wings folded, clinging to a wall with its back feet.",
+    "image_description_users": ["nevillepark"]
   },
   {
     "file": "Miniopterus natalensis 1.jpg",
@@ -1497,7 +1509,9 @@
     "file": "Myotis sodalis 2.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Indiana bat",
-    "scientific_name": "Myotis sodalis"
+    "scientific_name": "Myotis sodalis",
+    "image_description": "The back of a pale bat, slightly blurry, soaring over a mottled surface. On closer examination, the mottled surface proves to be thousands of tightly packed bats, hanging upside-down from a cave roof, their pink noses and wing-tips against their brown fur.",
+    "image_description_users": ["brown-betty"]
   },
   {
     "file": "Myotis sodalis 3.jpg",
@@ -1510,7 +1524,8 @@
     "attribution": "U.S. Geological Survey (public domain)",
     "common_name": "Hawaiian hoary bat",
     "scientific_name": "Lasiurus semotus",
-    "image_description": "A small furred bat with rounded ears and a pert, upturned snout. The fur is mottled light and dark shades of brown with a distinct ruffle around the neck."
+    "image_description": "A small furred bat with rounded ears and a pert, upturned snout. The fur is mottled light and dark shades of brown with a distinct ruffle around the neck.",
+    "image_description_users": ["aaronhowe78"]
   },
   {
     "file": "Myotis septentrionalis 1.jpg",
@@ -1781,7 +1796,8 @@
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Dark sheath-tailed bat",
     "scientific_name": "Mosia nigrescens",
-    "image_description": "A small brown bat shown in the typical head down vertical position. The bat has ridged ears and large expressive eyes."
+    "image_description": "A small brown bat shown in the typical head down vertical position. The bat has ridged ears and large expressive eyes.",
+    "image_description_users": ["aaronhowe78"]
   },
   {
     "file": "Nyctophilus gouldi 1.jpg",
@@ -1842,7 +1858,8 @@
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Little broad-nosed bat",
     "scientific_name": "Scotorepens greyii",
-    "image_description": "A pale, furry, silvery-winged little bat in flight against a solid black background."
+    "image_description": "A pale, furry, silvery-winged little bat in flight against a solid black background.",
+    "image_description_users": ["nevillepark"]
   },
   {
     "file": "Afronycteris nanus 1.jpg",
@@ -1873,13 +1890,16 @@
     "attribution": "Pavel Kirillov (CC BY-SA)",
     "common_name": "Small flying fox",
     "scientific_name": "Pteropus hypomelanus",
-    "image_description": "A flying fox is hanging off a bare tree branch in daylight. The fox is holding onto the branch with both feet, and the claws of his wings, leaving his wings half spread. The bat has a friendly face, a red chest, and it is very evident he is male."
+    "image_description": "A flying fox is hanging off a bare tree branch in daylight. The fox is holding onto the branch with both feet, and the claws of his wings, leaving his wings half spread. The bat has a friendly face, a red chest, and it is very evident he is male.",
+    "image_description_users": ["brown-betty"]
   },
   {
     "file": "Myotis evotis 1.jpg",
     "attribution": "Srikanth Vk (CC BY)",
     "common_name": "Long-eared myotis",
-    "scientific_name": "Myotis evotis"
+    "scientific_name": "Myotis evotis",
+    "image_description": "A bat against a black background. Its wings are outspread in flight, and below it is its reflection in water. The bat's body is golden, and its face, ears, and wings are dark. Water is dripping from its mouth, showing that it has just dipped into the water for a drink.",
+    "image_description_users": ["brown-betty"]
   },
   {
     "file": "Myotis volans 1.jpg",
@@ -1969,7 +1989,9 @@
     "file": "Myotis austroriparius 2.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Southeastern myotis",
-    "scientific_name": "Myotis austroriparius"
+    "scientific_name": "Myotis austroriparius",
+    "image_description": "A crevice in a pale, rocky surface is tightly packed with over dozen bats. The impression is of a surface of velvety brown fur interrupted with pink noses and wing-tips. The bats have paler fur on their chests.",
+    "image_description_users": ["brown-betty"]
   },
   {
     "file": "Myotis austroriparius 3.jpg",
@@ -2114,7 +2136,8 @@
     "attribution": "Juan Sebastian Quintero Santacruz (CC BY)",
     "common_name": "Greater fruit-eating bat",
     "scientific_name": "Artibeus lituratus",
-    "image_description": "A leaf-nosed bat about the size of the hand of the researcher holding it is biting the finger of the glove on the opposite hand. Because of the open mouth and small eye, the effect is of a very wide grin."
+    "image_description": "A leaf-nosed bat about the size of the hand of the researcher holding it is biting the finger of the glove on the opposite hand. Because of the open mouth and small eye, the effect is of a very wide grin.",
+    "image_description_users": ["brown-betty"]
   },
   {
     "file": "Carollia brevicauda 1.jpg",
@@ -2169,7 +2192,8 @@
     "attribution": "Luis F. Aguirre (CC BY-NC)",
     "common_name": "Black mastiff bat",
     "scientific_name": "Molossus rufus",
-    "image_description": "A close up of black mastiff bat's head in profile. It has red fur and a somewhat snub nose. It looks smug as hell for no reason."
+    "image_description": "A close up of black mastiff bat's head in profile. It has red fur and a somewhat snub nose. It looks smug as hell for no reason.",
+    "image_description_users": ["brown-betty"]
   },
   {
     "file": "Barbastella barbastellus 4.jpg",
@@ -2182,7 +2206,8 @@
     "attribution": "Andrew Mercer (CC BY-SA)",
     "common_name": "Grey-headed flying fox",
     "scientific_name": "Pteropus poliocephalus",
-    "image_description": "A bat with orange-coloured fur and a grey-furred, fox-like face flying low over water with its legs touching the surface. Droplets are flying behind."
+    "image_description": "A bat with orange-coloured fur and a grey-furred, fox-like face flying low over water with its legs touching the surface. Droplets are flying behind.",
+    "image_description_users": ["quicquid"]
   },
   {
     "file": "Glossophaga soricina 1.jpg",
