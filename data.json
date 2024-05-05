@@ -3,25 +3,33 @@
     "file": "Corynorhinus townsendii 1.jpg",
     "attribution": "National Park Service (public domain)",
     "common_name": "Townsend's big-eared bat",
-    "scientific_name": "Corynorhinus townsendii"
+    "scientific_name": "Corynorhinus townsendii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Macrotus californicus 1.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "California leaf-nosed bat",
-    "scientific_name": "Macrotus californicus"
+    "scientific_name": "Macrotus californicus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus poliocephalus 1.jpg",
     "attribution": "Andrew Mercer (CC BY-SA)",
     "common_name": "Grey-headed flying fox",
-    "scientific_name": "Pteropus poliocephalus"
+    "scientific_name": "Pteropus poliocephalus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus poliocephalus 2.jpg",
     "attribution": "Andrew Mercer (CC BY-SA)",
     "common_name": "Grey-headed flying fox",
-    "scientific_name": "Pteropus poliocephalus"
+    "scientific_name": "Pteropus poliocephalus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Rousettus aegyptiacus 1.jpg",
@@ -29,145 +37,191 @@
     "common_name": "Egyptian fruit bat",
     "scientific_name": "Rousettus aegyptiacus",
     "image_description": "A group of around 20 grey bats hanging from a stone ceiling. The wings are a darker grey or black, while the fur is a light grey. Mostly only their heads are visible. Some of their eyes reflect the flash light.",
-    "image_description_users": ["anreji"]
+    "image_description_users": "anreji"
   },
   {
     "file": "Rousettus aegyptiacus 2.jpg",
     "attribution": "Lithuanian Zoological Gardens (CC BY-SA)",
     "common_name": "Egyptian fruit bat",
-    "scientific_name": "Rousettus aegyptiacus"
+    "scientific_name": "Rousettus aegyptiacus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Rousettus aegyptiacus 3.jpg",
     "attribution": "Oren Peles (CC BY)",
     "common_name": "Egyptian fruit bat",
-    "scientific_name": "Rousettus aegyptiacus"
+    "scientific_name": "Rousettus aegyptiacus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Chrotopterus auritus 1.jpg",
-    "attribution": " Guilherme Garbino (CC BY-SA)",
+    "attribution": "Guilherme Garbino (CC BY-SA)",
     "common_name": "Big-eared woolly bat",
-    "scientific_name": "Chrotopterus auritus"
+    "scientific_name": "Chrotopterus auritus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus medius 1.jpg",
     "attribution": "Charles J. Sharp (CC BY-SA)",
     "common_name": "Indian flying fox",
-    "scientific_name": "Pteropus medius"
+    "scientific_name": "Pteropus medius",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus medius 2.jpg",
     "attribution": "Fritz Geller-Grimm (CC BY-SA)",
     "common_name": "Indian flying fox",
-    "scientific_name": "Pteropus medius"
+    "scientific_name": "Pteropus medius",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus medius 3.jpg",
     "attribution": "Trikansh Sharma (public domain)",
     "common_name": "Indian flying fox",
-    "scientific_name": "Pteropus medius"
+    "scientific_name": "Pteropus medius",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Ectophylla alba 1.jpg",
     "attribution": "Leyo (CC BY-SA)",
     "common_name": "Honduran white bat",
-    "scientific_name": "Ectophylla alba"
+    "scientific_name": "Ectophylla alba",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Ectophylla alba 2.jpg",
     "attribution": "Geoff Gallice (CC BY)",
     "common_name": "Honduran white bat",
-    "scientific_name": "Ectophylla alba"
+    "scientific_name": "Ectophylla alba",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Ectophylla alba 3.jpg",
     "attribution": "Charlie Jackson (CC BY)",
     "common_name": "Honduran white bat",
-    "scientific_name": "Ectophylla alba"
+    "scientific_name": "Ectophylla alba",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Artibeus fimbriatus 1.jpg",
     "attribution": "Cardoso Cláudio V, et al. (CC BY)",
     "common_name": "Fringed fruit-eating bat",
-    "scientific_name": "Artibeus fimbriatus"
+    "scientific_name": "Artibeus fimbriatus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Artibeus fraterculus 1.jpg",
     "attribution": "Juan Romero (CC BY-SA)",
     "common_name": "Fraternal fruit-eating bat",
-    "scientific_name": "Artibeus fraterculus"
+    "scientific_name": "Artibeus fraterculus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Artibeus hirsutus 1.jpg",
     "attribution": "Juan Cruzado Cortés (CC BY-SA)",
     "common_name": "Hairy fruit-eating bat",
-    "scientific_name": "Artibeus hirsutus"
+    "scientific_name": "Artibeus hirsutus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Artibeus jamaicensis 1.jpg",
     "attribution": "Karin Schneeberger (CC BY-SA)",
     "common_name": "Jamaican fruit bat",
-    "scientific_name": "Artibeus jamaicensis"
+    "scientific_name": "Artibeus jamaicensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Balionycteris maculata 1.jpg",
     "attribution": "Tabdulla (CC BY-SA)",
     "common_name": "Spotted-winged fruit bat",
-    "scientific_name": "Balionycteris maculata"
+    "scientific_name": "Balionycteris maculata",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Chironax melanocephalus 1.jpg",
     "attribution": "Muhammad Imam R (CC BY)",
     "common_name": "Black-capped fruit bat",
-    "scientific_name": "Chironax melanocephalus"
+    "scientific_name": "Chironax melanocephalus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Cynopterus brachyotis 1.jpg",
     "attribution": "AntanO (CC BY-SA)",
     "common_name": "Lesser short-nosed fruit bat",
-    "scientific_name": "Cynopterus brachyotis"
+    "scientific_name": "Cynopterus brachyotis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Cynopterus brachyotis 2.jpg",
     "attribution": "AntanO (CC BY-SA)",
     "common_name": "Lesser short-nosed fruit bat",
-    "scientific_name": "Cynopterus brachyotis"
+    "scientific_name": "Cynopterus brachyotis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Cynopterus minutus 1.jpg",
     "attribution": "Wibowo Djatmiko (CC BY-SA)",
     "common_name": "Minute fruit bat",
-    "scientific_name": "Cynopterus minutus"
+    "scientific_name": "Cynopterus minutus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Cynopterus sphinx 1.jpg",
     "attribution": "Shantanu Kuveskar (CC BY-SA)",
     "common_name": "Greater short-nosed fruit bat",
-    "scientific_name": "Cynopterus sphinx"
+    "scientific_name": "Cynopterus sphinx",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Cynopterus titthaecheilus titthaecheilus 1.jpg",
     "attribution": "Wibowo Djatmiko (CC BY-SA)",
     "common_name": "Indonesian short-nosed fruit bat",
-    "scientific_name": "Cynopterus titthaecheilus titthaecheilus"
+    "scientific_name": "Cynopterus titthaecheilus titthaecheilus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Haplonycteris fischeri 1.jpg",
     "attribution": "Government of the Philippines (public domain)",
     "common_name": "Fischer's pygmy fruit bat",
-    "scientific_name": "Haplonycteris fischeri"
+    "scientific_name": "Haplonycteris fischeri",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eidolon dupreanum 1.jpg",
     "attribution": "heinonlein (CC BY-SA)",
     "common_name": "Madagascan fruit bat",
-    "scientific_name": "Eidolon dupreanum"
+    "scientific_name": "Eidolon dupreanum",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eidolon helvum 1.jpg",
     "attribution": "Fritz Geller-Grimm (CC BY-SA)",
     "common_name": "Straw-coloured fruit bat",
-    "scientific_name": "Eidolon helvum"
+    "scientific_name": "Eidolon helvum",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Harpyionycteris whiteheadi 1.jpg",
@@ -175,7 +229,7 @@
     "common_name": "Harpy fruit bat",
     "scientific_name": "Harpyionycteris whiteheadi",
     "image_description": "A fruit bat fills the main part of the screen. Its body is mostly a furry brown, with the wings outstretched and translucent. In the background is some mountainous green landscape.",
-    "image_description_users": ["dlbradford"]
+    "image_description_users": "dlbradford"
   },
   {
     "file": "Nyctimene robinsoni 1.jpg",
@@ -183,301 +237,399 @@
     "common_name": "Eastern tube-nosed bat",
     "scientific_name": "Nyctimene robinsoni",
     "image_description": "A brown bat hanging in an inverted position. It has small ears which are edged with patches of white/pale skin. Its wings are also spotted with pale patches. It has light brown eyes, a shortened muzzle and elongated, tubular nostrils.",
-    "image_description_users": ["aaronhowe78"]
+    "image_description_users": "aaronhowe78"
   },
   {
     "file": "Acerodon celebensis 1.jpg",
     "attribution": "Scott Heinrichs (CC BY-SA)",
     "common_name": "Sulawesi flying fox",
-    "scientific_name": "Acerodon celebensis"
+    "scientific_name": "Acerodon celebensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Acerodon jubatus 1.jpg",
     "attribution": "Gregg Yan",
     "common_name": "Giant golden-crowned flying fox",
-    "scientific_name": "Acerodon jubatus"
+    "scientific_name": "Acerodon jubatus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus conspicillatus 1.jpg",
     "attribution": "Justin Welbergen (CC BY-SA)",
     "common_name": "Spectacled flying fox",
-    "scientific_name": "Pteropus conspicillatus"
+    "scientific_name": "Pteropus conspicillatus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus scapulatus 1.jpg",
     "attribution": "Raina Plowright (CC BY)",
     "common_name": "Little red flying fox",
-    "scientific_name": "Pteropus scapulatus"
+    "scientific_name": "Pteropus scapulatus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus livingstonii 1.jpg",
     "attribution": "Adrian Pingstone (public domain)",
     "common_name": "Livingstone's fruit bat",
-    "scientific_name": "Pteropus livingstonii"
+    "scientific_name": "Pteropus livingstonii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus dasymallus 1.jpg",
     "attribution": "Koolah (CC BY-SA)",
     "common_name": "Ryukyu flying fox",
-    "scientific_name": "Pteropus dasymallus"
+    "scientific_name": "Pteropus dasymallus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus rodricensis 1.jpg",
     "attribution": "Vauxford (CC BY-SA)",
     "common_name": "Rodrigues flying fox",
-    "scientific_name": "Pteropus rodricensis"
+    "scientific_name": "Pteropus rodricensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus vampyrus 1.jpg",
     "attribution": "NobbiP (CC BY-SA)",
     "common_name": "Large flying fox",
-    "scientific_name": "Pteropus vampyrus"
+    "scientific_name": "Pteropus vampyrus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus rufus 1.jpg",
     "attribution": "Neil Strickland (CC BY)",
     "common_name": "Madagascan flying fox",
-    "scientific_name": "Pteropus rufus"
+    "scientific_name": "Pteropus rufus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus seychellensis 1.jpg",
     "attribution": "Hubris.nemesis (CC BY-SA)",
     "common_name": "Seychelles fruit bat",
-    "scientific_name": "Pteropus seychellensis"
+    "scientific_name": "Pteropus seychellensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus lylei 1.jpg",
     "attribution": "Malene Thyssen (CC BY-SA)",
     "common_name": "Lyle's flying fox",
-    "scientific_name": "Pteropus lylei"
+    "scientific_name": "Pteropus lylei",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus niger 1.jpg",
     "attribution": "Charles J. Sharp (CC BY-SA)",
     "common_name": "Mauritian flying fox",
-    "scientific_name": "Pteropus niger"
+    "scientific_name": "Pteropus niger",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus samoensis 1.jpg",
     "attribution": "Paul Asman and Jill Lenoble (CC BY)",
     "common_name": "Samoa flying fox",
-    "scientific_name": "Pteropus samoensis"
+    "scientific_name": "Pteropus samoensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus poliocephalus 3.jpg",
     "attribution": "Andrew Mercer (CC BY-SA)",
     "common_name": "Grey-headed flying fox",
-    "scientific_name": "Pteropus poliocephalus"
+    "scientific_name": "Pteropus poliocephalus",
+    "image_description": "Three bats of the same species hanging from a cluster of branches. They each have grey bodies with a ruff of reddish-brown fur around their collars, each with varying shades of grey head fur. They have long snouts ending in split nostrils and black eyes. The frontmost bat is nestled into its mother and is facing away from the camera. The mother is looking at the camera, her black wings partially outstretched. A third bat hangs close behind her, also looking towards the camera.",
+    "image_description_users": "aaronhowe78"
   },
   {
     "file": "Pteropus poliocephalus 4.jpg",
     "attribution": "Andrew Mercer (CC BY-SA)",
     "common_name": "Grey-headed flying fox",
-    "scientific_name": "Pteropus poliocephalus"
+    "scientific_name": "Pteropus poliocephalus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus hypomelanus 1.jpg",
     "attribution": "Hadonos (CC BY-SA)",
     "common_name": "Small flying fox",
-    "scientific_name": "Pteropus hypomelanus"
+    "scientific_name": "Pteropus hypomelanus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus neohibernicus 1.jpg",
     "attribution": "Jon Irvine (CC BY-SA)",
     "common_name": "Great flying fox",
-    "scientific_name": "Pteropus neohibernicus"
+    "scientific_name": "Pteropus neohibernicus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus conspicillatus 2.jpg",
     "attribution": "CSIRO (CC BY)",
     "common_name": "Spectacled flying fox",
-    "scientific_name": "Pteropus conspicillatus"
+    "scientific_name": "Pteropus conspicillatus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus conspicillatus 3.jpg",
     "attribution": "Markus Nolf (CC BY-SA)",
     "common_name": "Spectacled flying fox",
-    "scientific_name": "Pteropus conspicillatus"
+    "scientific_name": "Pteropus conspicillatus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus alecto 1.jpg",
     "attribution": "Andrew Mercer (CC BY-SA)",
     "common_name": "Black flying fox",
-    "scientific_name": "Pteropus alecto"
+    "scientific_name": "Pteropus alecto",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus alecto 2.jpg",
     "attribution": "Andrew Mercer (CC BY-SA)",
     "common_name": "Black flying fox",
-    "scientific_name": "Pteropus alecto"
+    "scientific_name": "Pteropus alecto",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus tonganus 1.jpg",
     "attribution": "Paul Asman and Jill Lenoble (CC BY)",
     "common_name": "Insular flying fox",
-    "scientific_name": "Pteropus tonganus"
+    "scientific_name": "Pteropus tonganus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus mariannus 1.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Mariana fruit bat",
-    "scientific_name": "Pteropus mariannus"
+    "scientific_name": "Pteropus mariannus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus pelewensis yapensis 1.jpg",
     "attribution": "thibaudaronson (CC BY-SA)",
     "common_name": "Yap flying fox",
-    "scientific_name": "Pteropus pelewensis yapensis"
+    "scientific_name": "Pteropus pelewensis yapensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Desmodus rotundus 1.jpg",
     "attribution": "Alessandro Catenazzi (CC BY-SA)",
     "common_name": "Common vampire bat",
-    "scientific_name": "Desmodus rotundus"
+    "scientific_name": "Desmodus rotundus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Desmodus rotundus 2.jpg",
     "attribution": "Uwe Schmidt (CC BY-SA)",
     "common_name": "Common vampire bat",
-    "scientific_name": "Desmodus rotundus"
+    "scientific_name": "Desmodus rotundus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Diaemus youngi 1.jpg",
     "attribution": "Gerry Carter (CC BY-SA)",
     "common_name": "White-winged vampire bat",
-    "scientific_name": "Diaemus youngi"
+    "scientific_name": "Diaemus youngi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Diphylla ecaudata 1.jpg",
     "attribution": "Gerry Carter (CC BY-SA)",
     "common_name": "Hairy-legged vampire bat",
-    "scientific_name": "Diphylla ecaudata"
+    "scientific_name": "Diphylla ecaudata",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Macroglossus sobrinus 1.jpg",
     "attribution": "Wibowo Djatmiko (CC BY-SA)",
     "common_name": "Long-tongued fruit bat",
-    "scientific_name": "Macroglossus sobrinus"
+    "scientific_name": "Macroglossus sobrinus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Centurio senex 1.jpg",
     "attribution": "Jplevraud (CC BY-SA)",
     "common_name": "Wrinkle-faced bat",
-    "scientific_name": "Centurio senex"
+    "scientific_name": "Centurio senex",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hypsignathus monstrosus 1.jpg",
     "attribution": "Sarah H. Olson, et al. (public domain)",
     "common_name": "Hammer-headed bat",
-    "scientific_name": "Hypsignathus monstrosus"
+    "scientific_name": "Hypsignathus monstrosus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myonycteris relicta 1.jpg",
     "attribution": "Carrie Seltzer (CC BY)",
     "common_name": "East African little collared fruit bat",
-    "scientific_name": "Myonycteris relicta"
+    "scientific_name": "Myonycteris relicta",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eonycteris spelaea 1.jpg",
     "attribution": "Stephen Rossiter (CC BY)",
     "common_name": "Cave nectar bat",
-    "scientific_name": "Eonycteris spelaea"
+    "scientific_name": "Eonycteris spelaea",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Rousettus madagascariensis 1.jpg",
     "attribution": "Radasoa A. Andrianaivoarivelo (CC BY)",
     "common_name": "Madagascan rousette",
-    "scientific_name": "Rousettus madagascariensis"
+    "scientific_name": "Rousettus madagascariensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Mormoops megalophylla 1.jpg",
     "attribution": "Alex Borisenko (CC BY-SA)",
     "common_name": "Ghost-faced bat",
-    "scientific_name": "Mormoops megalophylla"
+    "scientific_name": "Mormoops megalophylla",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pipistrellus pipistrellus 1.jpg",
     "attribution": "Drahkrub (CC BY-SA)",
     "common_name": "Common pipistrelle",
-    "scientific_name": "Pipistrellus pipistrellus"
+    "scientific_name": "Pipistrellus pipistrellus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteronotus parnellii 1.jpg",
     "attribution": "Alex Borisenko (CC BY-SA)",
     "common_name": "Parnell's mustached bat",
-    "scientific_name": "Pteronotus parnellii"
+    "scientific_name": "Pteronotus parnellii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Cynopterus sphinx 2.jpg",
     "attribution": "Haneesh K M (CC BY-SA)",
     "common_name": "Greater short-nosed fruit bat",
-    "scientific_name": "Cynopterus sphinx"
+    "scientific_name": "Cynopterus sphinx",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Craseonycteris thonglongyai 1.jpg",
     "attribution": "Sébastien J. Puechmaille, et al. (CC BY)",
     "common_name": "Kitti's hog-nosed bat",
-    "scientific_name": "Craseonycteris thonglongyai"
+    "scientific_name": "Craseonycteris thonglongyai",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros commersoni 1.jpg",
     "attribution": "Charles J. Sharp (CC BY-SA)",
     "common_name": "Commerson's roundleaf bat",
-    "scientific_name": "Hipposideros commersoni"
+    "scientific_name": "Hipposideros commersoni",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros commersoni 2.jpg",
     "attribution": "Charles J. Sharp (CC BY-SA)",
     "common_name": "Commerson's roundleaf bat",
-    "scientific_name": "Hipposideros commersoni"
+    "scientific_name": "Hipposideros commersoni",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros armiger 1.jpg",
     "attribution": "Rajesh Puttaswamaiah (CC BY-SA)",
     "common_name": "Great roundleaf bat",
-    "scientific_name": "Hipposideros armiger"
+    "scientific_name": "Hipposideros armiger",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros ater 1.jpg",
     "attribution": "P. O. Nameer (CC BY)",
     "common_name": "Dusky leaf-nosed bat",
-    "scientific_name": "Hipposideros ater"
+    "scientific_name": "Hipposideros ater",
+    "image_description": "A small, approximately palm-sized bat, being held between pinched fingers. It has a head almost the same size as its body, with a leaf-shaped nose and short, ridged, wide ears. Its eyes are black and very small. Its fur is mostly light brown and is slightly darker around the head. Its legs lack fur and it has clawed feet.",
+    "image_description_users": "aaronhowe78"
   },
   {
     "file": "Hipposideros caffer 1.jpg",
     "attribution": "Ursula Franke (CC BY-SA)",
     "common_name": "Sundevall's roundleaf bat",
-    "scientific_name": "Hipposideros caffer"
+    "scientific_name": "Hipposideros caffer",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros lankadiva 1.jpg",
     "attribution": "Nyanatusita Bhikkhu (CC BY)",
     "common_name": "Indian roundleaf bat",
-    "scientific_name": "Hipposideros lankadiva"
+    "scientific_name": "Hipposideros lankadiva",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros cervinus 1.jpg",
     "attribution": "Dave R. Bennett (CC BY-SA)",
     "common_name": "Fawn leaf-nosed bat",
-    "scientific_name": "Hipposideros cervinus"
+    "scientific_name": "Hipposideros cervinus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros diadema 1.jpg",
     "attribution": "Michael Pennay (CC BY)",
     "common_name": "Diadem leaf-nosed bat",
-    "scientific_name": "Hipposideros diadema"
+    "scientific_name": "Hipposideros diadema",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros durgadasi 1.jpg",
     "attribution": "Rajesh Puttaswamaiah (CC BY-SA)",
     "common_name": "Khajuria's leaf-nosed bat",
-    "scientific_name": "Hipposideros durgadasi"
+    "scientific_name": "Hipposideros durgadasi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros fulvus 1.jpg",
     "attribution": "Rohit Chakravarty (CC BY-SA)",
     "common_name": "Fulvus roundleaf bat",
-    "scientific_name": "Hipposideros fulvus"
+    "scientific_name": "Hipposideros fulvus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros galeritus 1.jpg",
@@ -485,91 +637,119 @@
     "common_name": "Cantor's roundleaf bat",
     "scientific_name": "Hipposideros galeritus",
     "image_description": "A plump little bat with a pale belly and dark, velvety wings, hanging by its feet from a cave wall.",
-    "image_description_users": ["nevillepark"]
+    "image_description_users": "nevillepark"
   },
   {
     "file": "Hipposideros hypophyllus 1.jpg",
     "attribution": "Rajesh Puttaswamaiah (CC BY-SA)",
     "common_name": "Kolar leaf-nosed bat",
-    "scientific_name": "Hipposideros hypophyllus"
+    "scientific_name": "Hipposideros hypophyllus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros larvatus 1.jpg",
     "attribution": "Wibowo Djatmiko (CC BY)",
     "common_name": "Intermediate roundleaf bat",
-    "scientific_name": "Hipposideros larvatus"
+    "scientific_name": "Hipposideros larvatus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros ridleyi 1.jpg",
     "attribution": "Tabdulla (CC BY-SA)",
     "common_name": "Ridley's leaf-nosed bat",
-    "scientific_name": "Hipposideros ridleyi"
+    "scientific_name": "Hipposideros ridleyi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros speoris 1.jpg",
     "attribution": "Seshadri K. S. (CC BY-SA)",
     "common_name": "Schneider's leaf-nosed bat",
-    "scientific_name": "Hipposideros speoris"
+    "scientific_name": "Hipposideros speoris",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros speoris 2.jpg",
     "attribution": "Seshadri K. S. (CC BY-SA)",
     "common_name": "Schneider's leaf-nosed bat",
-    "scientific_name": "Hipposideros speoris"
+    "scientific_name": "Hipposideros speoris",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Emballonura semicaudata 1.jpg",
     "attribution": "U.S. Fish and Wildlife Service (CC BY)",
     "common_name": "Pacific sheath-tailed bat",
-    "scientific_name": "Emballonura semicaudata"
+    "scientific_name": "Emballonura semicaudata",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Balantiopteryx io 1.jpg",
     "attribution": "Juan Cruzado Cortés (CC BY-SA)",
     "common_name": "Thomas's sac-winged bat",
-    "scientific_name": "Balantiopteryx io"
+    "scientific_name": "Balantiopteryx io",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Balantiopteryx plicata 1.jpg",
     "attribution": "Bernard Dupont (CC BY-SA)",
     "common_name": "Gray sac-winged bat",
-    "scientific_name": "Balantiopteryx plicata"
+    "scientific_name": "Balantiopteryx plicata",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Coleura afra 1.jpg",
     "attribution": "Tom Jamonneau (CC BY-SA)",
     "common_name": "African sheath-tailed bat",
-    "scientific_name": "Coleura afra"
+    "scientific_name": "Coleura afra",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Diclidurus albus 1.jpg",
     "attribution": "Michael Autumn (CC BY-SA)",
     "common_name": "Northern ghost bat",
-    "scientific_name": "Diclidurus albus"
+    "scientific_name": "Diclidurus albus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Peropteryx trinitatis 1.jpg",
     "attribution": "Juan Cruzado Cortés (CC BY-SA)",
     "common_name": "Trinidad dog-like bat",
-    "scientific_name": "Peropteryx trinitatis"
+    "scientific_name": "Peropteryx trinitatis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Rhynchonycteris naso 1.jpg",
     "attribution": "Charles J. Sharp (CC BY-SA)",
     "common_name": "Proboscis bat",
-    "scientific_name": "Rhynchonycteris naso"
+    "scientific_name": "Rhynchonycteris naso",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Rhynchonycteris naso 2.jpg",
     "attribution": "Karin Schneeberger (CC BY-SA)",
     "common_name": "Proboscis bat",
-    "scientific_name": "Rhynchonycteris naso"
+    "scientific_name": "Rhynchonycteris naso",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Rhynchonycteris naso 3.jpg",
     "attribution": "Karin Schneeberger (CC BY-SA)",
     "common_name": "Proboscis bat",
-    "scientific_name": "Rhynchonycteris naso"
+    "scientific_name": "Rhynchonycteris naso",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Saccopteryx bilineata 1.jpg",
@@ -577,103 +757,135 @@
     "common_name": "Greater sac-winged bat",
     "scientific_name": "Saccopteryx bilineata",
     "image_description": "A bat hanging from a vertical surface. Its dark fur has two golden ripples going parallel down its back. Its little grippy toes are spread out, wings are folded next to it, and its face is pushed up like its doing cobra pose. Its curved mouth looks like it's smiling at the viewer.",
-    "image_description_users": ["brown-betty"]
+    "image_description_users": "brown-betty"
   },
   {
     "file": "Saccopteryx bilineata 2.jpg",
     "attribution": "Karin Schneeberger (CC BY-SA)",
     "common_name": "Greater sac-winged bat",
-    "scientific_name": "Saccopteryx bilineata"
+    "scientific_name": "Saccopteryx bilineata",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Saccopteryx leptura 1.jpg",
     "attribution": "Feroze Omardeen (CC BY)",
     "common_name": "Lesser sac-winged bat",
-    "scientific_name": "Saccopteryx leptura"
+    "scientific_name": "Saccopteryx leptura",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Taphozous theobaldi 1.jpg",
     "attribution": "Rajesh Puttaswamaiah (CC BY-SA)",
     "common_name": "Theobald's tomb bat",
-    "scientific_name": "Taphozous theobaldi"
+    "scientific_name": "Taphozous theobaldi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Taphozous melanopogon 1.jpg",
     "attribution": "Jenis Patel (CC BY-SA)",
     "common_name": "Black-bearded tomb bat",
-    "scientific_name": "Taphozous melanopogon"
+    "scientific_name": "Taphozous melanopogon",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Taphozous mauritianus 1.jpg",
     "attribution": "Frank Vassen (CC BY)",
     "common_name": "Mauritian tomb bat",
-    "scientific_name": "Taphozous mauritianus"
+    "scientific_name": "Taphozous mauritianus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Taphozous australis 1.jpg",
     "attribution": "coenobita (CC BY)",
     "common_name": "Coastal sheath-tailed bat",
-    "scientific_name": "Taphozous australis"
+    "scientific_name": "Taphozous australis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Cardioderma cor 1.jpg",
     "attribution": "wildscope (CC BY)",
     "common_name": "Heart-nosed bat",
-    "scientific_name": "Cardioderma cor"
+    "scientific_name": "Cardioderma cor",
+    "image_description": "A grey bat hangs upside down from a piece of wood by one foot. It has mottled brown wings which are folded back and is raising its head to look towards the camera. It has long and slim ears that point upward, black eyes, and a tall, oval-shaped leaf-nose with a ridge running down the middle.",
+    "image_description_users": "aaronhowe78"
   },
   {
     "file": "Lavia frons 1.jpg",
     "attribution": "Dries Sagaert (public domain)",
     "common_name": "Yellow-winged bat",
-    "scientific_name": "Lavia frons"
+    "scientific_name": "Lavia frons",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Macroderma gigas 1.jpg",
     "attribution": "Sardaka (CC BY-SA)",
     "common_name": "Ghost bat",
-    "scientific_name": "Macroderma gigas"
+    "scientific_name": "Macroderma gigas",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Megaderma spasma 1.jpg",
     "attribution": "Piekfrosch (GNU FDL)",
     "common_name": "Lesser false vampire bat",
-    "scientific_name": "Megaderma spasma"
+    "scientific_name": "Megaderma spasma",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Lyroderma lyra 1.jpg",
     "attribution": "Aditya Joshi (CC BY-SA)",
     "common_name": "Greater false vampire bat",
-    "scientific_name": "Lyroderma lyra"
+    "scientific_name": "Lyroderma lyra",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Chilonatalus micropus 1.jpg",
     "attribution": "Matthew A. Emrich (CC BY-SA)",
     "common_name": "Cuban funnel-eared bat",
-    "scientific_name": "Chilonatalus micropus"
+    "scientific_name": "Chilonatalus micropus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis myotis 1.jpg",
     "attribution": "Thomas Bresson (CC BY)",
     "common_name": "Greater mouse-eared bat",
-    "scientific_name": "Myotis myotis"
+    "scientific_name": "Myotis myotis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis myotis 2.jpg",
     "attribution": "Manuel Werner (CC BY-SA)",
     "common_name": "Greater mouse-eared bat",
-    "scientific_name": "Myotis myotis"
+    "scientific_name": "Myotis myotis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis emarginatus 1.jpg",
     "attribution": "MUSE Science Museum (CC BY-SA)",
     "common_name": "Geoffroy's bat",
-    "scientific_name": "Myotis emarginatus"
+    "scientific_name": "Myotis emarginatus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis rufoniger 1.jpg",
     "attribution": "Kim Hyun-tae (CC BY)",
     "common_name": "Reddish-black myotis",
-    "scientific_name": "Myotis rufoniger"
+    "scientific_name": "Myotis rufoniger",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis formosus 1.jpg",
@@ -681,571 +893,759 @@
     "common_name": "Hodgson's bat",
     "scientific_name": "Myotis formosus",
     "image_description": "Over a dozen small pale bats, packed in the spaces between some leaves on a plant. The bats are straw coloured, with pink faces and wing-tips, and the effect of multiple bats packed together is a bit like seeing a bat-coloured hydrangea blossom.",
-    "image_description_users": ["brown-betty"]
+    "image_description_users": "brown-betty"
   },
   {
     "file": "Myotis alcathoe 1.jpg",
     "attribution": "Manuel Ruedi (CC BY-SA)",
     "common_name": "Alcathoe bat",
-    "scientific_name": "Myotis alcathoe"
+    "scientific_name": "Myotis alcathoe",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis bechsteinii 1.jpg",
     "attribution": "Northern Vosges Regional Nature Park (public domain)",
     "common_name": "Bechstein's bat",
-    "scientific_name": "Myotis bechsteinii"
+    "scientific_name": "Myotis bechsteinii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis blythii 1.jpg",
     "attribution": "Kudaibergen Amirekul (CC BY-SA)",
     "common_name": "Lesser mouse-eared bat",
-    "scientific_name": "Myotis blythii"
+    "scientific_name": "Myotis blythii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis blythii 2.jpg",
     "attribution": "C. Robiller (CC BY-SA)",
     "common_name": "Lesser mouse-eared bat",
-    "scientific_name": "Myotis blythii"
+    "scientific_name": "Myotis blythii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis capaccinii 1.jpg",
     "attribution": "Joxerra Aihartza (Free Art License)",
     "common_name": "Long-fingered bat",
-    "scientific_name": "Myotis capaccinii"
+    "scientific_name": "Myotis capaccinii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis crypticus 1.jpg",
     "attribution": "Manuel Ruedi (CC BY-SA)",
     "common_name": "Cryptic myotis",
-    "scientific_name": "Myotis crypticus"
+    "scientific_name": "Myotis crypticus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis dasycneme 1.jpg",
     "attribution": "Gilles San Martin (CC BY-SA)",
     "common_name": "Pond bat",
-    "scientific_name": "Myotis dasycneme"
+    "scientific_name": "Myotis dasycneme",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis daubentonii 1.jpg",
     "attribution": "Gilles San Martin (CC BY-SA)",
     "common_name": "Daubenton's bat",
-    "scientific_name": "Myotis daubentonii"
+    "scientific_name": "Myotis daubentonii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis daubentonii 2.jpg",
     "attribution": "Lennart Lennuk (CC BY)",
     "common_name": "Daubenton's bat",
-    "scientific_name": "Myotis daubentonii"
+    "scientific_name": "Myotis daubentonii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Lasiurus cinereus 1.jpg",
     "attribution": "U.S. Geological Survey (public domain)",
     "common_name": "Hoary bat",
-    "scientific_name": "Lasiurus cinereus"
+    "scientific_name": "Lasiurus cinereus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Lasiurus cinereus 2.jpg",
     "attribution": "Larisa Bishop-Boros (CC BY-SA)",
     "common_name": "Hoary bat",
-    "scientific_name": "Lasiurus cinereus"
+    "scientific_name": "Lasiurus cinereus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Kerivoula intermedia 1.jpg",
     "attribution": "Dave R. Bennett (CC BY-SA)",
     "common_name": "Small woolly bat",
-    "scientific_name": "Kerivoula intermedia"
+    "scientific_name": "Kerivoula intermedia",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Kerivoula papillosa 1.jpg",
     "attribution": "Gabor Csorba, et al. (CC BY)",
     "common_name": "Papillose woolly bat",
-    "scientific_name": "Kerivoula papillosa"
+    "scientific_name": "Kerivoula papillosa",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Kerivoula pellucida 1.jpg",
     "attribution": "Government of the Philippines (public domain)",
     "common_name": "Clear-winged woolly bat",
-    "scientific_name": "Kerivoula pellucida"
+    "scientific_name": "Kerivoula pellucida",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Kerivoula whiteheadi 1.jpg",
     "attribution": "Government of the Philippines (public domain)",
     "common_name": "Whitehead's woolly bat",
-    "scientific_name": "Kerivoula whiteheadi"
+    "scientific_name": "Kerivoula whiteheadi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Murina beelzebub 1.jpg",
     "attribution": "Gabor Csorba (CC BY-SA)",
     "common_name": "Beelzebub's tube-nosed bat",
-    "scientific_name": "Murina beelzebub"
+    "scientific_name": "Murina beelzebub",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Murina cineracea 1.jpg",
     "attribution": "Gabor Csorba (CC BY-SA)",
     "common_name": "Ashy-gray tube-nosed bat",
-    "scientific_name": "Murina cineracea"
+    "scientific_name": "Murina cineracea",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Murina hilgendorfi 1.jpg",
     "attribution": "Hi-tanio (CC BY-SA)",
     "common_name": "Hilgendorf's tube-nosed bat",
-    "scientific_name": "Murina hilgendorfi"
+    "scientific_name": "Murina hilgendorfi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Murina ussuriensis 1.jpg",
     "attribution": "Pxc06142 (CC BY-SA)",
     "common_name": "Ussuri tube-nosed bat",
-    "scientific_name": "Murina ussuriensis"
+    "scientific_name": "Murina ussuriensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Murina walstoni 1.jpg",
     "attribution": "Gabor Csorba (CC BY-SA)",
     "common_name": "Walston's tube-nosed bat",
-    "scientific_name": "Murina walstoni"
+    "scientific_name": "Murina walstoni",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Antrozous pallidus 1.jpg",
     "attribution": "Connor Long (CC BY-SA)",
     "common_name": "Pallid bat",
-    "scientific_name": "Antrozous pallidus"
+    "scientific_name": "Antrozous pallidus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Antrozous pallidus 2.jpg",
     "attribution": "Geoff Gallice (CC BY)",
     "common_name": "Pallid bat",
-    "scientific_name": "Antrozous pallidus"
+    "scientific_name": "Antrozous pallidus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Bauerus dubiaquercus 1.jpg",
     "attribution": "Juan Cruzado Cortés (CC BY-SA)",
     "common_name": "Van Gelder's bat",
-    "scientific_name": "Bauerus dubiaquercus"
+    "scientific_name": "Bauerus dubiaquercus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Rhogeessa aeneus 1.jpg",
     "attribution": "Alex Borisenko (CC BY-SA)",
     "common_name": "Yucatan yellow bat",
-    "scientific_name": "Rhogeessa aeneus"
+    "scientific_name": "Rhogeessa aeneus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Rhogeessa io 1.jpg",
     "attribution": "Geoffrey Gomes (CC BY)",
     "common_name": "Thomas's yellow bat",
-    "scientific_name": "Rhogeessa io"
+    "scientific_name": "Rhogeessa io",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eptesicus diminutus 1.jpg",
     "attribution": "Carlos Henrique Russi (public domain)",
     "common_name": "Diminutive serotine",
-    "scientific_name": "Eptesicus diminutus"
+    "scientific_name": "Eptesicus diminutus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eptesicus furinalis 1.jpg",
     "attribution": "Karin Schneeberger (CC BY-SA)",
     "common_name": "Argentine brown bat",
-    "scientific_name": "Eptesicus furinalis"
+    "scientific_name": "Eptesicus furinalis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eptesicus nilssonii 1.jpg",
     "attribution": "Markus Nolf (CC BY-SA)",
     "common_name": "Northern bat",
-    "scientific_name": "Eptesicus nilssonii"
+    "scientific_name": "Eptesicus nilssonii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eptesicus nilssonii 2.jpg",
     "attribution": "Magne Flåten (CC BY-SA)",
     "common_name": "Northern bat",
-    "scientific_name": "Eptesicus nilssonii"
+    "scientific_name": "Eptesicus nilssonii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eptesicus serotinus 1.jpg",
     "attribution": "Markus Nolf (CC BY-SA)",
     "common_name": "Serotine bat",
-    "scientific_name": "Eptesicus serotinus"
+    "scientific_name": "Eptesicus serotinus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eptesicus taddeii 1.jpg",
     "attribution": "Cardoso Cláudio V, et al. (CC BY)",
     "common_name": "Taddei's serotine",
-    "scientific_name": "Eptesicus taddeii"
+    "scientific_name": "Eptesicus taddeii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Glauconycteris poensis 1.jpg",
     "attribution": "D. Reeder, et al. (CC BY)",
     "common_name": "Abo bat",
-    "scientific_name": "Glauconycteris poensis"
+    "scientific_name": "Glauconycteris poensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Glauconycteris superba 1.jpg",
     "attribution": "D. Reeder, et al. (CC BY)",
     "common_name": "Pied butterfly bat",
-    "scientific_name": "Glauconycteris superba"
+    "scientific_name": "Glauconycteris superba",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Histiotus laephotis 1.jpg",
     "attribution": "Gonzalo Ossa Gomez (CC BY)",
     "common_name": "Thomas's big-eared brown bat",
-    "scientific_name": "Histiotus laephotis"
+    "scientific_name": "Histiotus laephotis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Histiotus magellanicus 1.jpg",
     "attribution": "Gonzalo Ossa Gomez (CC BY)",
     "common_name": "Southern big-eared brown bat",
-    "scientific_name": "Histiotus magellanicus"
+    "scientific_name": "Histiotus magellanicus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Lasionycteris noctivagans 1.jpg",
     "attribution": "Larisa Bishop-Boros (CC BY-SA)",
     "common_name": "Silver-haired bat",
-    "scientific_name": "Lasionycteris noctivagans"
+    "scientific_name": "Lasionycteris noctivagans",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Scotorepens balstoni 1.jpg",
     "attribution": "Catherine Lynch (CC BY)",
     "common_name": "Western broad-nosed bat",
-    "scientific_name": "Scotorepens balstoni"
+    "scientific_name": "Scotorepens balstoni",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Lasiurus semotus 1.jpg",
     "attribution": "U.S. Geological Survey (public domain)",
     "common_name": "Hawaiian hoary bat",
-    "scientific_name": "Lasiurus semotus"
+    "scientific_name": "Lasiurus semotus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Dasypterus xanthinus 1.jpg",
     "attribution": "U.S. Bureau of Reclamation (CC BY-SA)",
     "common_name": "Western yellow bat",
-    "scientific_name": "Dasypterus xanthinus"
+    "scientific_name": "Dasypterus xanthinus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Dasypterus intermedius 1.jpg",
     "attribution": "Juan Cruzado Cortés (CC BY-SA)",
     "common_name": "Northern yellow bat",
-    "scientific_name": "Dasypterus intermedius"
+    "scientific_name": "Dasypterus intermedius",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Lasiurus borealis 1.jpg",
     "attribution": "Josh Henderson (CC BY-SA)",
     "common_name": "Eastern red bat",
-    "scientific_name": "Lasiurus borealis"
+    "scientific_name": "Lasiurus borealis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Lasiurus borealis 2.jpg",
     "attribution": "Chris Harshaw (CC BY-SA)",
     "common_name": "Eastern red bat",
-    "scientific_name": "Lasiurus borealis"
+    "scientific_name": "Lasiurus borealis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Lasiurus frantzii 1.jpg",
     "attribution": "National Park Service (public domain)",
     "common_name": "Western red bat",
-    "scientific_name": "Lasiurus frantzii"
+    "scientific_name": "Lasiurus frantzii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Lasiurus seminolus 1.jpg",
     "attribution": "Enwebb (CC BY-SA)",
     "common_name": "Seminole bat",
-    "scientific_name": "Lasiurus seminolus"
+    "scientific_name": "Lasiurus seminolus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Lasiurus varius 1.jpg",
     "attribution": "Gonzalo Ossa Gomez (CC BY)",
     "common_name": "Cinnamon red bat",
-    "scientific_name": "Lasiurus varius"
+    "scientific_name": "Lasiurus varius",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Nycticeius humeralis 1.jpg",
     "attribution": "U.S. Army (public domain)",
     "common_name": "Evening bat",
-    "scientific_name": "Nycticeius humeralis"
+    "scientific_name": "Nycticeius humeralis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Nycticeius humeralis 2.jpg",
     "attribution": "Enwebb (CC BY-SA)",
     "common_name": "Evening bat",
-    "scientific_name": "Nycticeius humeralis"
+    "scientific_name": "Nycticeius humeralis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Parastrellus hesperus 1.jpg",
     "attribution": "National Park Service (public domain)",
     "common_name": "Canyon bat",
-    "scientific_name": "Parastrellus hesperus"
+    "scientific_name": "Parastrellus hesperus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Perimyotis subflavus 1.jpg",
     "attribution": "Enwebb (CC BY-SA)",
     "common_name": "Tricolored bat",
-    "scientific_name": "Perimyotis subflavus"
+    "scientific_name": "Perimyotis subflavus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Perimyotis subflavus 2.jpg",
     "attribution": "Larisa Bishop-Boros (CC BY-SA)",
     "common_name": "Tricolored bat",
-    "scientific_name": "Perimyotis subflavus"
+    "scientific_name": "Perimyotis subflavus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Nyctalus azoreum 1.jpg",
     "attribution": "Filipe Lopes (CC BY-SA)",
     "common_name": "Azores noctule",
-    "scientific_name": "Nyctalus azoreum"
+    "scientific_name": "Nyctalus azoreum",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Nyctalus lasiopterus 1.jpg",
     "attribution": "Nicol Harper (CC BY)",
     "common_name": "Greater noctule",
-    "scientific_name": "Nyctalus lasiopterus"
+    "scientific_name": "Nyctalus lasiopterus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Nyctalus leisleri 1.jpg",
     "attribution": "Manuel Werner (CC BY-SA)",
     "common_name": "Lesser noctule",
-    "scientific_name": "Nyctalus leisleri"
+    "scientific_name": "Nyctalus leisleri",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pipistrellus abramus 1.jpg",
     "attribution": "OAS (CC BY-SA)",
     "common_name": "Japanese house bat",
-    "scientific_name": "Pipistrellus abramus"
+    "scientific_name": "Pipistrellus abramus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pipistrellus kuhlii 1.jpg",
     "attribution": "Leonardo Ancillotto (CC BY)",
     "common_name": "Kuhl's pipistrelle",
-    "scientific_name": "Pipistrellus kuhlii"
+    "scientific_name": "Pipistrellus kuhlii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pipistrellus nathusii 1.jpg",
     "attribution": "Markus Nolf (CC BY-SA)",
     "common_name": "Nathusius's pipistrelle",
-    "scientific_name": "Pipistrellus nathusii"
+    "scientific_name": "Pipistrellus nathusii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pipistrellus pygmaeus 1.jpg",
     "attribution": "Evgeniy Yakhontov (CC BY-SA)",
     "common_name": "Soprano pipistrelle",
-    "scientific_name": "Pipistrellus pygmaeus"
+    "scientific_name": "Pipistrellus pygmaeus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pipistrellus tenuis 1.jpg",
     "attribution": "Dibyendu Ash (CC BY-SA)",
     "common_name": "Least pipistrelle",
-    "scientific_name": "Pipistrellus tenuis"
+    "scientific_name": "Pipistrellus tenuis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Barbastella barbastellus 1.jpg",
     "attribution": "C. Robiller (CC BY-SA)",
     "common_name": "Western barbastelle",
-    "scientific_name": "Barbastella barbastellus"
+    "scientific_name": "Barbastella barbastellus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Corynorhinus rafinesquii 1.jpg",
     "attribution": "C. S. Jordan (CC BY)",
     "common_name": "Rafinesque's big-eared bat",
-    "scientific_name": "Corynorhinus rafinesquii"
+    "scientific_name": "Corynorhinus rafinesquii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Corynorhinus rafinesquii 2.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Rafinesque's big-eared bat",
-    "scientific_name": "Corynorhinus rafinesquii"
+    "scientific_name": "Corynorhinus rafinesquii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Corynorhinus mexicanus 1.jpg",
     "attribution": "Lily Trujillo (CC BY-SA)",
     "common_name": "Mexican big-eared bat",
-    "scientific_name": "Corynorhinus mexicanus"
+    "scientific_name": "Corynorhinus mexicanus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Corynorhinus townsendii ingens 1.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Ozark big-eared bat",
-    "scientific_name": "Corynorhinus townsendii ingens"
+    "scientific_name": "Corynorhinus townsendii ingens",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Corynorhinus townsendii ingens 2.jpg",
     "attribution": "Richard Stark (CC BY)",
     "common_name": "Ozark big-eared bat",
-    "scientific_name": "Corynorhinus townsendii ingens"
+    "scientific_name": "Corynorhinus townsendii ingens",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Corynorhinus townsendii virginianus 1.jpg",
     "attribution": "Larisa Bishop-Boros (CC BY-SA)",
     "common_name": "Virginia big-eared bat",
-    "scientific_name": "Corynorhinus townsendii virginianus"
+    "scientific_name": "Corynorhinus townsendii virginianus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Corynorhinus townsendii virginianus 2.jpg",
     "attribution": "Larisa Bishop-Boros (CC BY-SA)",
     "common_name": "Virginia big-eared bat",
-    "scientific_name": "Corynorhinus townsendii virginianus"
+    "scientific_name": "Corynorhinus townsendii virginianus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Euderma maculatum 1.jpg",
     "attribution": "U.S. Geological Survey (public domain)",
     "common_name": "Spotted bat",
-    "scientific_name": "Euderma maculatum"
+    "scientific_name": "Euderma maculatum",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Idionycteris phyllotis 1.jpg",
     "attribution": "Juan Cruzado Cortés (CC BY-SA)",
     "common_name": "Allen's big-eared bat",
-    "scientific_name": "Idionycteris phyllotis"
+    "scientific_name": "Idionycteris phyllotis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Otonycteris hemprichii 1.jpg",
     "attribution": "Charlotte Roemer (CC BY-SA)",
     "common_name": "Desert long-eared bat",
-    "scientific_name": "Otonycteris hemprichii"
+    "scientific_name": "Otonycteris hemprichii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Plecotus auritus 1.jpg",
     "attribution": "Vispistrellus (CC BY-SA)",
     "common_name": "Brown long-eared bat",
-    "scientific_name": "Plecotus auritus"
+    "scientific_name": "Plecotus auritus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Plecotus auritus 2.jpg",
     "attribution": "Fourrure (CC BY-SA)",
     "common_name": "Brown long-eared bat",
-    "scientific_name": "Plecotus auritus"
+    "scientific_name": "Plecotus auritus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Plecotus austriacus 1.jpg",
     "attribution": "Andrei Sakhno (CC BY-SA)",
     "common_name": "Grey long-eared bat",
-    "scientific_name": "Plecotus austriacus"
+    "scientific_name": "Plecotus austriacus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Plecotus gaisleri 1.jpg",
     "attribution": "Tomas Kay (CC BY)",
     "common_name": "Gaisler's long-eared bat",
-    "scientific_name": "Plecotus gaisleri"
+    "scientific_name": "Plecotus gaisleri",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Plecotus kolombatovici 1.jpg",
     "attribution": "Philippe Théou (CC BY-SA)",
     "common_name": "Mediterranean long-eared bat",
-    "scientific_name": "Plecotus kolombatovici"
+    "scientific_name": "Plecotus kolombatovici",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Plecotus macrobullaris 1.jpg",
     "attribution": "MUSE Science Museum (CC BY-SA)",
     "common_name": "Alpine long-eared bat",
-    "scientific_name": "Plecotus macrobullaris"
+    "scientific_name": "Plecotus macrobullaris",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Plecotus ognevi 1.jpg",
     "attribution": "Alexander A. Fomichev (CC BY)",
     "common_name": "Ognev's long-eared bat",
-    "scientific_name": "Plecotus ognevi"
+    "scientific_name": "Plecotus ognevi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Plecotus sardus 1.jpg",
     "attribution": "Mauro Mucedda (CC BY)",
     "common_name": "Sardinian long-eared bat",
-    "scientific_name": "Plecotus sardus"
+    "scientific_name": "Plecotus sardus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Scotophilus dinganii 1.jpg",
     "attribution": "Susan Ellis (CC BY)",
     "common_name": "African yellow bat",
-    "scientific_name": "Scotophilus dinganii"
+    "scientific_name": "Scotophilus dinganii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Chalinolobus dwyeri 1.jpg",
     "attribution": "Doug Beckers (CC BY-SA)",
     "common_name": "Large-eared pied bat",
-    "scientific_name": "Chalinolobus dwyeri"
+    "scientific_name": "Chalinolobus dwyeri",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Chalinolobus morio 1.jpg",
     "attribution": "Doug Beckers (CC BY-SA)",
     "common_name": "Chocolate wattled bat",
-    "scientific_name": "Chalinolobus morio"
+    "scientific_name": "Chalinolobus morio",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Laephotis capensis 1.jpg",
     "attribution": "Bernard Dupont (CC BY-SA)",
     "common_name": "Cape serotine",
-    "scientific_name": "Laephotis capensis"
+    "scientific_name": "Laephotis capensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Nyctophilus bifax 1.jpg",
     "attribution": "Greg Schechter (CC BY)",
     "common_name": "Eastern long-eared bat",
-    "scientific_name": "Nyctophilus bifax"
+    "scientific_name": "Nyctophilus bifax",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Nyctophilus geoffroyi 1.jpg",
     "attribution": "Matt Clancy (CC BY)",
     "common_name": "Lesser long-eared bat",
-    "scientific_name": "Nyctophilus geoffroyi"
+    "scientific_name": "Nyctophilus geoffroyi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Vespadelus vulturnus 1.jpg",
     "attribution": "Michael Pennay (CC BY)",
     "common_name": "Little forest bat",
-    "scientific_name": "Vespadelus vulturnus"
+    "scientific_name": "Vespadelus vulturnus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Vespertilio murinus 1.jpg",
     "attribution": "Markus Nolf (CC BY-SA)",
     "common_name": "Parti-coloured bat",
-    "scientific_name": "Vespertilio murinus"
+    "scientific_name": "Vespertilio murinus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Lasionycteris noctivagans 2.jpg",
     "attribution": "Jennifer Krauel (CC BY-NC-ND)",
     "common_name": "Silver-haired bat",
-    "scientific_name": "Lasionycteris noctivagans"
+    "scientific_name": "Lasionycteris noctivagans",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Anoura caudifer 1.jpg",
     "attribution": "Arthur Tahara (CC BY-NC-ND)",
     "common_name": "Tailed tailless bat",
-    "scientific_name": "Anoura caudifer"
+    "scientific_name": "Anoura caudifer",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis bechsteinii 2.jpg",
     "attribution": "Dietmar Nill (CC BY)",
     "common_name": "Bechstein's bat",
-    "scientific_name": "Myotis bechsteinii"
+    "scientific_name": "Myotis bechsteinii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis nattereri 2.jpg",
     "attribution": "Wildaboutburnley (CC BY-NC-ND)",
     "common_name": "Natterer's bat",
-    "scientific_name": "Myotis nattereri"
+    "scientific_name": "Myotis nattereri",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis nattereri 3.jpg",
     "attribution": "Ján Svetlík (CC BY-NC-ND)",
     "common_name": "Natterer's bat",
-    "scientific_name": "Myotis nattereri"
+    "scientific_name": "Myotis nattereri",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eptesicus fuscus 1.jpg",
     "attribution": "U.S. Fish and Wildlife Service (CC BY)",
     "common_name": "Big brown bat",
-    "scientific_name": "Eptesicus fuscus"
+    "scientific_name": "Eptesicus fuscus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eptesicus fuscus 2.jpg",
     "attribution": "Matt Reinbold (CC BY-SA)",
     "common_name": "Big brown bat",
-    "scientific_name": "Eptesicus fuscus"
+    "scientific_name": "Eptesicus fuscus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eptesicus fuscus 3.jpg",
     "attribution": "John MacGregor (public domain)",
     "common_name": "Big brown bat",
-    "scientific_name": "Eptesicus fuscus"
+    "scientific_name": "Eptesicus fuscus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eptesicus fuscus 4.jpg",
     "attribution": "Connor Long (CC BY-SA)",
     "common_name": "Big brown bat",
-    "scientific_name": "Eptesicus fuscus"
+    "scientific_name": "Eptesicus fuscus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pipistrellus pipistrellus 2.jpg",
@@ -1253,43 +1653,55 @@
     "common_name": "Common pipistrelle",
     "scientific_name": "Pipistrellus pipistrellus",
     "image_description": "A very small bat with brown fur resting on the palm of a hand, nomming on a grub.",
-    "image_description_users": ["sirlan-ff00ff"]
+    "image_description_users": "sirlan-ff00ff"
   },
   {
     "file": "Rhinolophus megaphyllus 1.jpg",
     "attribution": "Victoria Department of Environment & Primary Industries (CC BY-NC)",
     "common_name": "Smaller horseshoe bat",
-    "scientific_name": "Rhinolophus megaphyllus"
+    "scientific_name": "Rhinolophus megaphyllus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Rhinolophus megaphyllus 2.jpg",
     "attribution": "Glen Fergus (CC BY)",
     "common_name": "Smaller horseshoe bat",
-    "scientific_name": "Rhinolophus megaphyllus"
+    "scientific_name": "Rhinolophus megaphyllus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Tadaria braziliensis 1.jpg",
     "attribution": "U.S. Fish and Wildlife Service (CC BY)",
     "common_name": "Mexican free-tailed bat",
-    "scientific_name": "Tadaria braziliensis"
+    "scientific_name": "Tadaria braziliensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis yumanensis 1.jpg",
     "attribution": "J. N. Stuart (CC BY-NC-ND)",
     "common_name": "Yuma myotis",
-    "scientific_name": "Myotis yumanensis"
+    "scientific_name": "Myotis yumanensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis yumanensis 2.jpg",
     "attribution": "Daniel Neal (CC BY)",
     "common_name": "Yuma myotis",
-    "scientific_name": "Myotis yumanensis"
+    "scientific_name": "Myotis yumanensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus poliocephalus 5.jpg",
     "attribution": "René Riegal (Unsplash)",
     "common_name": "Grey-headed flying fox",
-    "scientific_name": "Pteropus poliocephalus"
+    "scientific_name": "Pteropus poliocephalus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Acerodon celebensis 2.jpg",
@@ -1297,61 +1709,79 @@
     "common_name": "Sulawesi flying fox",
     "scientific_name": "Acerodon celebensis",
     "image_description": "A handsome tan bat with a long canine snout and wide brown eyes, hanging upside down from a leafy tree branch in the sun.",
-    "image_description_users": ["nevillepark"]
+    "image_description_users": "nevillepark"
   },
   {
     "file": "Plecotus auritus 3.jpg",
     "attribution": "Nils Bouillard (Unsplash)",
     "common_name": "Brown long-eared bat",
-    "scientific_name": "Plecotus auritus"
+    "scientific_name": "Plecotus auritus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Rhinolophus ferrumequinum 1.jpg",
     "attribution": "Nils Bouillard (Unsplash)",
     "common_name": "Greater horseshoe bat",
-    "scientific_name": "Rhinolophus ferrumequinum"
+    "scientific_name": "Rhinolophus ferrumequinum",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Notopteris neocaledonica 1.jpg",
     "attribution": "Nils Bouillard (Unsplash)",
     "common_name": "New Caledonia blossom bat",
-    "scientific_name": "Notopteris neocaledonica"
+    "scientific_name": "Notopteris neocaledonica",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Craseonycteris thonglongyai 2.jpg",
     "attribution": "Nils Bouillard (Unsplash)",
     "common_name": "Kitti's hog-nosed bat",
-    "scientific_name": "Craseonycteris thonglongyai"
+    "scientific_name": "Craseonycteris thonglongyai",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis dasycneme 2.jpg",
     "attribution": "Nils Bouillard (Unsplash)",
     "common_name": "Pond bat",
-    "scientific_name": "Myotis dasycneme"
+    "scientific_name": "Myotis dasycneme",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Perimyotis subflavus 3.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Tricolored bat",
-    "scientific_name": "Perimyotis subflavus"
+    "scientific_name": "Perimyotis subflavus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Perimyotis subflavus 4.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Tricolored bat",
-    "scientific_name": "Perimyotis subflavus"
+    "scientific_name": "Perimyotis subflavus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis grisescens 1.jpg",
     "attribution": "George Lee (CC BY-NC)",
     "common_name": "Grey myotis",
-    "scientific_name": "Myotis grisescens"
+    "scientific_name": "Myotis grisescens",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Miniopterus australis 1.jpg",
     "attribution": "Glen Fergus (CC BY-SA)",
     "common_name": "Little bent-wing bat",
-    "scientific_name": "Miniopterus australis"
+    "scientific_name": "Miniopterus australis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Miniopterus fuliginosus 1.jpg",
@@ -1359,151 +1789,199 @@
     "common_name": "Eastern bent-wing bat",
     "scientific_name": "Miniopterus fuliginosus",
     "image_description": "A plump bat with glossy chocolate-brown fur, wings folded, clinging to a wall with its back feet.",
-    "image_description_users": ["nevillepark"]
+    "image_description_users": "nevillepark"
   },
   {
     "file": "Miniopterus natalensis 1.jpg",
     "attribution": "Derek Keats (CC BY)",
     "common_name": "Natal long-fingered bat",
-    "scientific_name": "Miniopterus natalensis"
+    "scientific_name": "Miniopterus natalensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Cheiromeles torquatus 1.jpg",
     "attribution": "Tasnim Choudhury (CC BY-SA)",
     "common_name": "Hairless bat",
-    "scientific_name": "Cheiromeles torquatus"
+    "scientific_name": "Cheiromeles torquatus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eumops floridanus 1.jpg",
     "attribution": "Enwebb (CC BY-SA)",
     "common_name": "Florida bonneted bat",
-    "scientific_name": "Eumops floridanus"
+    "scientific_name": "Eumops floridanus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eumops floridanus 2.jpg",
     "attribution": "Enwebb (CC BY-SA)",
     "common_name": "Florida bonneted bat",
-    "scientific_name": "Eumops floridanus"
+    "scientific_name": "Eumops floridanus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eumops glaucinus 1.jpg",
     "attribution": "Thamurdock (public domain)",
     "common_name": "Wagner's bonneted bat",
-    "scientific_name": "Eumops glaucinus"
+    "scientific_name": "Eumops glaucinus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Molossops neglectus 1.jpg",
     "attribution": "Cardoso Cláudio V, et al. (CC BY)",
     "common_name": "Rufous dog-faced bat",
-    "scientific_name": "Molossops neglectus"
+    "scientific_name": "Molossops neglectus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Molossops temminckii 1.jpg",
     "attribution": "Jose Anderson Feijo (CC BY)",
     "common_name": "Dwarf dog-faced bat",
-    "scientific_name": "Molossops temminckii"
+    "scientific_name": "Molossops temminckii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Molossus currentium 1.jpg",
     "attribution": "Karin Schneeberger (CC BY-SA)",
     "common_name": "Bonda mastiff bat",
-    "scientific_name": "Molossus currentium"
+    "scientific_name": "Molossus currentium",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Molossus rufus 1.jpg",
     "attribution": "Cardoso Cláudio V, et al. (CC BY)",
     "common_name": "Black mastiff bat",
-    "scientific_name": "Molossus rufus"
+    "scientific_name": "Molossus rufus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Mops condylurus 1.jpg",
     "attribution": "Bernard Dupont (CC BY-SA)",
     "common_name": "Angolan free-tailed bat",
-    "scientific_name": "Mops condylurus"
+    "scientific_name": "Mops condylurus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Nyctinomops macrotis 1.jpg",
     "attribution": "Bureau of Land Management (public domain)",
     "common_name": "Big free-tailed bat",
-    "scientific_name": "Nyctinomops macrotis"
+    "scientific_name": "Nyctinomops macrotis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Otomops wroughtoni 1.jpg",
     "attribution": "Kalyan Varma (CC BY-SA)",
     "common_name": "Wroughton's free-tailed bat",
-    "scientific_name": "Otomops wroughtoni"
+    "scientific_name": "Otomops wroughtoni",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Tadarida aegyptiaca 1.jpg",
     "attribution": "Rajesh Puttaswamaiah (CC BY-SA)",
     "common_name": "Egyptian free-tailed bat",
-    "scientific_name": "Tadarida aegyptiaca"
+    "scientific_name": "Tadarida aegyptiaca",
+    "image_description": "A brown, furry bat being held by its wings. It is approximately the size of a small mouse. It has a thick snout and a small nose with protruding nostrils. Its ears are rounded and slightly forward facing. Its eyes are round and completely black. It has thick but hairless legs with short claws.",
+    "image_description_users": "aaronhowe78"
   },
   {
     "file": "Tadarida brasiliensis 2.jpg",
     "attribution": "National Park Service (public domain)",
     "common_name": "Mexican free-tailed bat",
-    "scientific_name": "Tadarida brasiliensis"
+    "scientific_name": "Tadarida brasiliensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Tadarida teniotis 1.jpg",
     "attribution": "Emanuel Yellin (CC BY)",
     "common_name": "European free-tailed bat",
-    "scientific_name": "Tadarida teniotis"
+    "scientific_name": "Tadarida teniotis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Corynorhinus townsendii virginianus 3.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Virginia big-eared bat",
-    "scientific_name": "Corynorhinus townsendii virginianus"
+    "scientific_name": "Corynorhinus townsendii virginianus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Corynorhinus townsendii ingens 3.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Ozark big-eared bat",
-    "scientific_name": "Corynorhinus townsendii ingens"
+    "scientific_name": "Corynorhinus townsendii ingens",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eptesicus fuscus 5.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Big brown bat",
-    "scientific_name": "Eptesicus fuscus"
+    "scientific_name": "Eptesicus fuscus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis lucifugus 1.jpg",
     "attribution": "S. M. Bishop (CC BY-SA)",
     "common_name": "Little brown bat",
-    "scientific_name": "Myotis lucifugus"
+    "scientific_name": "Myotis lucifugus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis lucifugus 2.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Little brown bat",
-    "scientific_name": "Myotis lucifugus"
+    "scientific_name": "Myotis lucifugus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis lucifugus 3.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Little brown bat",
-    "scientific_name": "Myotis lucifugus"
+    "scientific_name": "Myotis lucifugus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Mixed 1.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Mixed colony of Indiana bats (Myotis sodalis) and little brown bats (Myotis lucifugus)",
-    "scientific_name": null
+    "scientific_name": "",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis sodalis 1.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Indiana bat",
-    "scientific_name": "Myotis sodalis"
+    "scientific_name": "Myotis sodalis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis sodalis 1.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Indiana bat",
-    "scientific_name": "Myotis sodalis"
+    "scientific_name": "Myotis sodalis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis sodalis 2.jpg",
@@ -1511,13 +1989,15 @@
     "common_name": "Indiana bat",
     "scientific_name": "Myotis sodalis",
     "image_description": "The back of a pale bat, slightly blurry, soaring over a mottled surface. On closer examination, the mottled surface proves to be thousands of tightly packed bats, hanging upside-down from a cave roof, their pink noses and wing-tips against their brown fur.",
-    "image_description_users": ["brown-betty"]
+    "image_description_users": "brown-betty"
   },
   {
     "file": "Myotis sodalis 3.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Indiana bat",
-    "scientific_name": "Myotis sodalis"
+    "scientific_name": "Myotis sodalis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Lasiurus semotus 2.jpg",
@@ -1525,271 +2005,359 @@
     "common_name": "Hawaiian hoary bat",
     "scientific_name": "Lasiurus semotus",
     "image_description": "A small furred bat with rounded ears and a pert, upturned snout. The fur is mottled light and dark shades of brown with a distinct ruffle around the neck.",
-    "image_description_users": ["aaronhowe78"]
+    "image_description_users": "aaronhowe78"
   },
   {
     "file": "Myotis septentrionalis 1.jpg",
     "attribution": "Jomegat (CC BY-SA)",
     "common_name": "Northern long-eared myotis",
-    "scientific_name": "Myotis septentrionalis"
+    "scientific_name": "Myotis septentrionalis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis septentrionalis 2.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Northern long-eared myotis",
-    "scientific_name": "Myotis septentrionalis"
+    "scientific_name": "Myotis septentrionalis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Leptonycteris yerbabuenae 1.jpg",
     "attribution": "Alan Schmierer (public domain)",
     "common_name": "Lesser long-nosed bat",
-    "scientific_name": "Leptonycteris yerbabuenae"
+    "scientific_name": "Leptonycteris yerbabuenae",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus seychellensis 2.jpg",
     "attribution": "Liam Lysaght (public domain)",
     "common_name": "Seychelles fruit bat",
-    "scientific_name": "Pteropus seychellensis"
+    "scientific_name": "Pteropus seychellensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus livingstonii 2.jpg",
     "attribution": "Catherine Ellis (public domain)",
     "common_name": "Livingstone's fruit bat",
-    "scientific_name": "Pteropus livingstonii"
+    "scientific_name": "Pteropus livingstonii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Leptonycteris yerbabuenae 2.jpg",
     "attribution": "Alan Schmierer (public domain)",
     "common_name": "Lesser long-nosed bat",
-    "scientific_name": "Leptonycteris yerbabuenae"
+    "scientific_name": "Leptonycteris yerbabuenae",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Taphozous mauritianus 2.jpg",
     "attribution": "Sandy Young (public domain)",
     "common_name": "Mauritian tomb bat",
-    "scientific_name": "Taphozous mauritianus"
+    "scientific_name": "Taphozous mauritianus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Corynorhinus townsendii 2.jpg",
     "attribution": "U.S. Fish and Wildlife Service (CC BY)",
     "common_name": "Townsend's big-eared bat",
-    "scientific_name": "Corynorhinus townsendii"
+    "scientific_name": "Corynorhinus townsendii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Carollia perspicillata 1.jpg",
     "attribution": "Andy Morffew (CC BY)",
     "common_name": "Seba's short-tailed bat",
-    "scientific_name": "Carollia perspicillata"
+    "scientific_name": "Carollia perspicillata",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eidolon helvum 2.jpg",
     "attribution": "U.S. Fish and Wildlife Service (CC BY)",
     "common_name": "Straw-coloured fruit bat",
-    "scientific_name": "Eidolon helvum"
+    "scientific_name": "Eidolon helvum",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Eidolon helvum 3.jpg",
     "attribution": "Ian Sane (CC BY)",
     "common_name": "Straw-coloured fruit bat",
-    "scientific_name": "Eidolon helvum"
+    "scientific_name": "Eidolon helvum",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Macroderma gigas 2.jpg",
     "attribution": "S. J. Bennett (CC BY)",
     "common_name": "Ghost bat",
-    "scientific_name": "Macroderma gigas"
+    "scientific_name": "Macroderma gigas",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Antrozous pallidus 3.jpg",
     "attribution": "Jennifer Krauel (CC BY-NC-ND)",
     "common_name": "Pallid bat",
-    "scientific_name": "Antrozous pallidus"
+    "scientific_name": "Antrozous pallidus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus vampyrus 2.jpg",
     "attribution": "Hector A. Parayuelos (CC BY-NC-ND)",
     "common_name": "Large flying fox",
-    "scientific_name": "Pteropus vampyrus"
+    "scientific_name": "Pteropus vampyrus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Syconycteris australis 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Common blossom bat",
-    "scientific_name": "Syconycteris australis"
+    "scientific_name": "Syconycteris australis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Syconycteris australis 2.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Common blossom bat",
-    "scientific_name": "Syconycteris australis"
+    "scientific_name": "Syconycteris australis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Chalinolobus dwyeri 2.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Large-eared pied bat",
-    "scientific_name": "Chalinolobus dwyeri"
+    "scientific_name": "Chalinolobus dwyeri",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Nyctimene robinsoni 2.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Eastern tube-nosed bat",
-    "scientific_name": "Nyctimene robinsoni"
+    "scientific_name": "Nyctimene robinsoni",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Saccolaimus mixtus 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Papuan sheath-tailed bat",
-    "scientific_name": "Saccolaimus mixtus"
+    "scientific_name": "Saccolaimus mixtus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Macroglossus minimus 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Long-tongued nectar bat",
-    "scientific_name": "Macroglossus minimus"
+    "scientific_name": "Macroglossus minimus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Macroglossus minimus 2.jpg",
     "attribution": "Government of the Philippines (public domain)",
     "common_name": "Long-tongued nectar bat",
-    "scientific_name": "Macroglossus minimus"
+    "scientific_name": "Macroglossus minimus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Macroglossus minimus 3.jpg",
     "attribution": "Government of the Philippines (public domain)",
     "common_name": "Long-tongued nectar bat",
-    "scientific_name": "Macroglossus minimus"
+    "scientific_name": "Macroglossus minimus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Nyctophilus bifax 2.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Eastern long-eared bat",
-    "scientific_name": "Nyctophilus bifax"
+    "scientific_name": "Nyctophilus bifax",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Nyctophilus geoffroyi 2.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Lesser long-eared bat",
-    "scientific_name": "Nyctophilus geoffroyi"
+    "scientific_name": "Nyctophilus geoffroyi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Nyctophilus geoffroyi 3.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Lesser long-eared bat",
-    "scientific_name": "Nyctophilus geoffroyi"
+    "scientific_name": "Nyctophilus geoffroyi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Chaerephon jobensis 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Northern freetail bat",
-    "scientific_name": "Chaerephon jobensis"
+    "scientific_name": "Chaerephon jobensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Chaerephon jobensis 2.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Northern freetail bat",
-    "scientific_name": "Chaerephon jobensis"
+    "scientific_name": "Chaerephon jobensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Chalinolobus dwyeri 3.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Large-eared pied bat",
-    "scientific_name": "Chalinolobus dwyeri"
+    "scientific_name": "Chalinolobus dwyeri",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Setirostris eleryi 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Bristle-faced freetail",
-    "scientific_name": "Setirostris eleryi"
+    "scientific_name": "Setirostris eleryi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Setirostris eleryi 2.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Bristle-faced freetail",
-    "scientific_name": "Setirostris eleryi"
+    "scientific_name": "Setirostris eleryi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Scoteanax rueppellii 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Rüppell's broad-nosed bat",
-    "scientific_name": "Scoteanax rueppellii"
+    "scientific_name": "Scoteanax rueppellii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Saccolaimus mixtus 2.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Papuan sheath-tailed bat",
-    "scientific_name": "Saccolaimus mixtus"
+    "scientific_name": "Saccolaimus mixtus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Vespadelus regulus 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Southern forest bat",
-    "scientific_name": "Vespadelus regulus"
+    "scientific_name": "Vespadelus regulus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Chalinolobus morio 2.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Chocolate wattled bat",
-    "scientific_name": "Chalinolobus morio"
+    "scientific_name": "Chalinolobus morio",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Paranyctemene raptor 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Lesser tube-nosed fruit bat",
-    "scientific_name": "Paranyctemene raptor"
+    "scientific_name": "Paranyctemene raptor",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Rhinolophus megaphyllus 3.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Smaller horseshoe bat",
-    "scientific_name": "Rhinolophus megaphyllus"
+    "scientific_name": "Rhinolophus megaphyllus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus tonganus 2.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Insular flying fox",
-    "scientific_name": "Pteropus tonganus"
+    "scientific_name": "Pteropus tonganus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Chalinolobus nigrogriseus 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Hoary wattled bat",
-    "scientific_name": "Chalinolobus nigrogriseus"
+    "scientific_name": "Chalinolobus nigrogriseus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Chalinolobus nigrogriseus 2.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Hoary wattled bat",
-    "scientific_name": "Chalinolobus nigrogriseus"
+    "scientific_name": "Chalinolobus nigrogriseus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Scotorepens sanborni 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Northern broad-nosed bat",
-    "scientific_name": "Scotorepens sanborni"
+    "scientific_name": "Scotorepens sanborni",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis macropus 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Southern myotis",
-    "scientific_name": "Myotis macropus"
+    "scientific_name": "Myotis macropus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Mops condylurus 2.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Angolan free-tailed bat",
-    "scientific_name": "Mops condylurus"
+    "scientific_name": "Mops condylurus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Nyctimene robinsoni 3.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Eastern tube-nosed bat",
-    "scientific_name": "Nyctimene robinsoni"
+    "scientific_name": "Nyctimene robinsoni",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros diadema 2.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Diadem leaf-nosed bat",
-    "scientific_name": "Hipposideros diadema"
+    "scientific_name": "Hipposideros diadema",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Mosia nigrescens 1.jpg",
@@ -1797,61 +2365,79 @@
     "common_name": "Dark sheath-tailed bat",
     "scientific_name": "Mosia nigrescens",
     "image_description": "A small brown bat shown in the typical head down vertical position. The bat has ridged ears and large expressive eyes.",
-    "image_description_users": ["aaronhowe78"]
+    "image_description_users": "aaronhowe78"
   },
   {
     "file": "Nyctophilus gouldi 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Gould's long-eared bat",
-    "scientific_name": "Nyctophilus gouldi"
+    "scientific_name": "Nyctophilus gouldi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Austronomus australis 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "White-striped free-tailed bat",
-    "scientific_name": "Austronomus australis"
+    "scientific_name": "Austronomus australis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros maggietaylorae 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Maggie Taylor's roundleaf bat",
-    "scientific_name": "Hipposideros maggietaylorae"
+    "scientific_name": "Hipposideros maggietaylorae",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Ozimops petersi 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Inland free-tailed bat",
-    "scientific_name": "Ozimops petersi"
+    "scientific_name": "Ozimops petersi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros calcaratus 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Spurred roundleaf bat",
-    "scientific_name": "Hipposideros calcaratus"
+    "scientific_name": "Hipposideros calcaratus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Scotorepens balstoni 2.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Western broad-nosed bat",
-    "scientific_name": "Scotorepens balstoni"
+    "scientific_name": "Scotorepens balstoni",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Scotorepens orion 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Eastern broad-nosed bat",
-    "scientific_name": "Scotorepens orion"
+    "scientific_name": "Scotorepens orion",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Vespadelus troughtoni 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Eastern cave bat",
-    "scientific_name": "Vespadelus troughtoni"
+    "scientific_name": "Vespadelus troughtoni",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Nyctimene aello 1.jpg",
     "attribution": "Michael Pennay (CC BY-NC-ND)",
     "common_name": "Broad-striped tube-nosed fruit bat",
-    "scientific_name": "Nyctimene aello"
+    "scientific_name": "Nyctimene aello",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Scotorepens greyii 1.jpg",
@@ -1859,31 +2445,39 @@
     "common_name": "Little broad-nosed bat",
     "scientific_name": "Scotorepens greyii",
     "image_description": "A pale, furry, silvery-winged little bat in flight against a solid black background.",
-    "image_description_users": ["nevillepark"]
+    "image_description_users": "nevillepark"
   },
   {
     "file": "Afronycteris nanus 1.jpg",
     "attribution": "Peter Steward (CC BY-NC)",
     "common_name": "Banana serotine",
-    "scientific_name": "Afronycteris nanus"
+    "scientific_name": "Afronycteris nanus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus medius 4.jpg",
     "attribution": "Linda De Volder (CC BY-NC-ND)",
     "common_name": "Indian flying fox",
-    "scientific_name": "Pteropus medius"
+    "scientific_name": "Pteropus medius",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus poliocephalus 6.jpg",
     "attribution": "audiodam (CC BY-NC-ND)",
     "common_name": "Grey-headed flying fox",
-    "scientific_name": "Pteropus poliocephalus"
+    "scientific_name": "Pteropus poliocephalus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus vampyrus 3.jpg",
     "attribution": "Andrea Janda (CC BY-NC-ND)",
     "common_name": "Large flying fox",
-    "scientific_name": "Pteropus vampyrus"
+    "scientific_name": "Pteropus vampyrus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus hypomelanus 2.jpg",
@@ -1891,7 +2485,7 @@
     "common_name": "Small flying fox",
     "scientific_name": "Pteropus hypomelanus",
     "image_description": "A flying fox is hanging off a bare tree branch in daylight. The fox is holding onto the branch with both feet, and the claws of his wings, leaving his wings half spread. The bat has a friendly face, a red chest, and it is very evident he is male.",
-    "image_description_users": ["brown-betty"]
+    "image_description_users": "brown-betty"
   },
   {
     "file": "Myotis evotis 1.jpg",
@@ -1899,91 +2493,119 @@
     "common_name": "Long-eared myotis",
     "scientific_name": "Myotis evotis",
     "image_description": "A bat against a black background. Its wings are outspread in flight, and below it is its reflection in water. The bat's body is golden, and its face, ears, and wings are dark. Water is dripping from its mouth, showing that it has just dipped into the water for a drink.",
-    "image_description_users": ["brown-betty"]
+    "image_description_users": "brown-betty"
   },
   {
     "file": "Myotis volans 1.jpg",
     "attribution": "National Park Service (public domain)",
     "common_name": "Long-legged myotis",
-    "scientific_name": "Myotis volans"
+    "scientific_name": "Myotis volans",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis nigricans 1.jpg",
     "attribution": "Kai Medina (CC BY-SA)",
     "common_name": "Black myotis",
-    "scientific_name": "Myotis nigricans"
+    "scientific_name": "Myotis nigricans",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis brandtii 1.jpg",
     "attribution": "A. V. Borissenko (CC BY)",
     "common_name": "Brandt's bat",
-    "scientific_name": "Myotis brandtii"
+    "scientific_name": "Myotis brandtii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis californicus 1.jpg",
     "attribution": "Alan Harper (CC BY-NC)",
     "common_name": "California bat",
-    "scientific_name": "Myotis californicus"
+    "scientific_name": "Myotis californicus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis californicus 2.jpg",
     "attribution": "Bureau of Land Management (CC BY)",
     "common_name": "California bat",
-    "scientific_name": "Myotis californicus"
+    "scientific_name": "Myotis californicus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis vivesi 1.jpg",
     "attribution": "S. E. Santana, et al. (CC BY)",
     "common_name": "Fish-eating bat",
-    "scientific_name": "Myotis vivesi"
+    "scientific_name": "Myotis vivesi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis chiloensis 1.jpg",
     "attribution": "Gonzalo Ossa Gomez (CC BY)",
     "common_name": "Chilean myotis",
-    "scientific_name": "Myotis chiloensis"
+    "scientific_name": "Myotis chiloensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis dinellii 1.jpg",
     "attribution": "Juan Alberto Ruiz (public domain)",
     "common_name": "Dinelli's myotis",
-    "scientific_name": "Myotis dinellii"
+    "scientific_name": "Myotis dinellii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis peninsularis 1.jpg",
     "attribution": "Juan Cruzado Cortés (CC BY-SA)",
     "common_name": "Peninsular myotis",
-    "scientific_name": "Myotis peninsularis"
+    "scientific_name": "Myotis peninsularis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis macrodactylus 1.jpg",
     "attribution": "Hi-tanio (CC BY-SA)",
     "common_name": "Eastern long-fingered bat",
-    "scientific_name": "Myotis macrodactylus"
+    "scientific_name": "Myotis macrodactylus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis leibii 1.jpg",
     "attribution": "Paul Moosman (CC BY-SA)",
     "common_name": "Eastern small-footed myotis",
-    "scientific_name": "Myotis leibii"
+    "scientific_name": "Myotis leibii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis punicus 1.jpg",
     "attribution": "Aissa Djamel Filali (CC BY-SA)",
     "common_name": "Felten's myotis",
-    "scientific_name": "Myotis punicus"
+    "scientific_name": "Myotis punicus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis thysanodes 1.jpg",
     "attribution": "National Park Service (public domain)",
     "common_name": "Fringed myotis",
-    "scientific_name": "Myotis thysanodes"
+    "scientific_name": "Myotis thysanodes",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis austroriparius 1.jpg",
     "attribution": "U.S. Forest Service (public domain)",
     "common_name": "Southeastern myotis",
-    "scientific_name": "Myotis austroriparius"
+    "scientific_name": "Myotis austroriparius",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis austroriparius 2.jpg",
@@ -1991,145 +2613,191 @@
     "common_name": "Southeastern myotis",
     "scientific_name": "Myotis austroriparius",
     "image_description": "A crevice in a pale, rocky surface is tightly packed with over dozen bats. The impression is of a surface of velvety brown fur interrupted with pink noses and wing-tips. The bats have paler fur on their chests.",
-    "image_description_users": ["brown-betty"]
+    "image_description_users": "brown-betty"
   },
   {
     "file": "Myotis austroriparius 3.jpg",
     "attribution": "Larisa Bishop-Boros (CC BY-SA)",
     "common_name": "Southeastern myotis",
-    "scientific_name": "Myotis austroriparius"
+    "scientific_name": "Myotis austroriparius",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis auriculus 1.jpg",
     "attribution": "National Park Service (public domain)",
     "common_name": "Southwestern myotis",
-    "scientific_name": "Myotis auriculus"
+    "scientific_name": "Myotis auriculus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis grisescens 2.jpg",
     "attribution": "U.S. Fish and Wildlife Service (public domain)",
     "common_name": "Gray bat",
-    "scientific_name": "Myotis grisescens"
+    "scientific_name": "Myotis grisescens",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis grisescens 3.jpg",
     "attribution": "Enwebb (CC BY-SA)",
     "common_name": "Gray bat",
-    "scientific_name": "Myotis grisescens"
+    "scientific_name": "Myotis grisescens",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis keaysi 1.jpg",
     "attribution": "Alex Borisenko (CC BY-SA)",
     "common_name": "Hairy-legged myotis",
-    "scientific_name": "Myotis keaysi"
+    "scientific_name": "Myotis keaysi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis muricola 1.jpg",
     "attribution": "Wibowo Djatmiko (CC BY)",
     "common_name": "Wall-roosting mouse-eared bat",
-    "scientific_name": "Myotis muricola"
+    "scientific_name": "Myotis muricola",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis ciliolabrum 1.jpg",
     "attribution": "National Park Service (public domain)",
     "common_name": "Western small-footed bat",
-    "scientific_name": "Myotis ciliolabrum"
+    "scientific_name": "Myotis ciliolabrum",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Myotis mystacinus 1.jpg",
     "attribution": "Markus Nolf (CC BY-SA)",
     "common_name": "Whiskered bat",
-    "scientific_name": "Myotis mystacinus"
+    "scientific_name": "Myotis mystacinus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Megaderma lyra 1.jpg",
     "attribution": "gdevender (CC BY-NC)",
     "common_name": "Greater false vampire bat",
-    "scientific_name": "Megaderma lyra"
+    "scientific_name": "Megaderma lyra",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Megaderma lyra 2.jpg",
     "attribution": "gdevender (CC BY-NC)",
     "common_name": "Greater false vampire bat",
-    "scientific_name": "Megaderma lyra"
+    "scientific_name": "Megaderma lyra",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Megaderma lyra 3.jpg",
     "attribution": "gdevender (CC BY-NC)",
     "common_name": "Greater false vampire bat",
-    "scientific_name": "Megaderma lyra"
+    "scientific_name": "Megaderma lyra",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Barbastella barbastellus 2.jpg",
     "attribution": "Jakob Fahr (CC BY-NC)",
     "common_name": "Western barbastelle",
-    "scientific_name": "Barbastella barbastellus"
+    "scientific_name": "Barbastella barbastellus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Barbastella barbastellus 2.jpg",
     "attribution": "Jakob Fahr (CC BY-NC)",
     "common_name": "Western barbastelle",
-    "scientific_name": "Barbastella barbastellus"
+    "scientific_name": "Barbastella barbastellus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Cynopterus brachyotis 3.jpg",
     "attribution": "Ria Tan (CC BY-NC-SA)",
     "common_name": "Lesser short-nosed fruit bat",
-    "scientific_name": "Cynopterus brachyotis"
+    "scientific_name": "Cynopterus brachyotis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hipposideros commersoni 3.jpg",
     "attribution": "Bernard Dupont (CC BY-SA)",
     "common_name": "Commerson's roundleaf bat",
-    "scientific_name": "Hipposideros commersoni"
+    "scientific_name": "Hipposideros commersoni",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus poliocephalus 7.jpg",
     "attribution": "Akuli (public domain)",
     "common_name": "Grey-headed flying fox",
-    "scientific_name": "Pteropus poliocephalus"
+    "scientific_name": "Pteropus poliocephalus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Rousettus amplexicaudatus 1.jpg",
     "attribution": "Richard Parker (CC BY-NC-SA)",
     "common_name": "Geoffroy's rousette",
-    "scientific_name": "Rousettus amplexicaudatus"
+    "scientific_name": "Rousettus amplexicaudatus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Epomophorus wahlbergi 1.jpg",
     "attribution": "Susan Ellis (CC BY)",
     "common_name": "Wahlberg's epauletted fruit bat",
-    "scientific_name": "Epomophorus wahlbergi"
+    "scientific_name": "Epomophorus wahlbergi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Unknown epauletted fruit bat 1.jpg",
     "attribution": "Bernard Dupont (CC BY-SA)",
     "common_name": "Either a Wahlberg's epauletted fruit bat (Epomophorus wahlbergi) or a Peters's epauletted fruit bat (Epomophorus crypturus)",
-    "scientific_name": null
+    "scientific_name": "",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Unknown epauletted fruit bat 2.jpg",
     "attribution": "Bernard Dupont (CC BY-SA)",
     "common_name": "Either a Wahlberg's epauletted fruit bat (Epomophorus wahlbergi) or a Peters's epauletted fruit bat (Epomophorus crypturus)",
-    "scientific_name": null
+    "scientific_name": "",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Desmodus rotundus 3.jpg",
     "attribution": "Robertsphotos1 (CC BY-NC-SA)",
     "common_name": "Common vampire bat",
-    "scientific_name": "Desmodus rotundus"
+    "scientific_name": "Desmodus rotundus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteronotus personatus 1.jpg",
     "attribution": "Bernard Dupont (CC BY-SA)",
     "common_name": "Wagner's mustached bat",
-    "scientific_name": "Pteronotus personatus"
+    "scientific_name": "Pteronotus personatus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Artibeus lituratus 1.jpg",
     "attribution": "Brian Gratwicke (CC BY)",
     "common_name": "Greater fruit-eating bat",
-    "scientific_name": "Artibeus lituratus"
+    "scientific_name": "Artibeus lituratus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Artibeus lituratus 2.jpg",
@@ -2137,55 +2805,71 @@
     "common_name": "Greater fruit-eating bat",
     "scientific_name": "Artibeus lituratus",
     "image_description": "A leaf-nosed bat about the size of the hand of the researcher holding it is biting the finger of the glove on the opposite hand. Because of the open mouth and small eye, the effect is of a very wide grin.",
-    "image_description_users": ["brown-betty"]
+    "image_description_users": "brown-betty"
   },
   {
     "file": "Carollia brevicauda 1.jpg",
     "attribution": "Bernard Dupont (CC BY-SA)",
     "common_name": "Silky short-tailed bat",
-    "scientific_name": "Carollia brevicauda"
+    "scientific_name": "Carollia brevicauda",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Carollia brevicauda 2.jpg",
     "attribution": "Diego Lizcano (CC BY)",
     "common_name": "Silky short-tailed bat",
-    "scientific_name": "Carollia brevicauda"
+    "scientific_name": "Carollia brevicauda",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Cardioderma cor 2.jpg",
     "attribution": "Paul Webala (CC BY-NC)",
     "common_name": "Heart-nosed bat",
-    "scientific_name": "Cardioderma cor"
+    "scientific_name": "Cardioderma cor",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Cardioderma cor 3.jpg",
     "attribution": "Beryl Makori (CC BY-NC)",
     "common_name": "Heart-nosed bat",
-    "scientific_name": "Cardioderma cor"
+    "scientific_name": "Cardioderma cor",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Epomophorus crypturus 1.jpg",
     "attribution": "Jakob Fahr (CC BY-NC)",
     "common_name": "Peters's epauletted fruit bat",
-    "scientific_name": "Epomophorus crypturus"
+    "scientific_name": "Epomophorus crypturus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Epomophorus crypturus 2.jpg",
     "attribution": "Jakob Fahr (CC BY-NC)",
     "common_name": "Peters's epauletted fruit bat",
-    "scientific_name": "Epomophorus crypturus"
+    "scientific_name": "Epomophorus crypturus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Epomophorus crypturus 3.jpg",
     "attribution": "Wayne (CC BY-NC)",
     "common_name": "Peters's epauletted fruit bat",
-    "scientific_name": "Epomophorus crypturus"
+    "scientific_name": "Epomophorus crypturus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Epomophorus angolensis 1.jpg",
     "attribution": "Dr. M. Zieger (CC BY-SA)",
     "common_name": "Angolan epauletted fruit bat",
-    "scientific_name": "Epomophorus angolensis"
+    "scientific_name": "Epomophorus angolensis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Molossus rufus 2.jpg",
@@ -2193,13 +2877,15 @@
     "common_name": "Black mastiff bat",
     "scientific_name": "Molossus rufus",
     "image_description": "A close up of black mastiff bat's head in profile. It has red fur and a somewhat snub nose. It looks smug as hell for no reason.",
-    "image_description_users": ["brown-betty"]
+    "image_description_users": "brown-betty"
   },
   {
     "file": "Barbastella barbastellus 4.jpg",
     "attribution": "Martin Grimm (CC BY-NC)",
     "common_name": "Western barbastelle",
-    "scientific_name": "Barbastella barbastellus"
+    "scientific_name": "Barbastella barbastellus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Pteropus poliocephalus 8.jpg",
@@ -2207,132 +2893,174 @@
     "common_name": "Grey-headed flying fox",
     "scientific_name": "Pteropus poliocephalus",
     "image_description": "A bat with orange-coloured fur and a grey-furred, fox-like face flying low over water with its legs touching the surface. Droplets are flying behind.",
-    "image_description_users": ["quicquid"]
+    "image_description_users": "quicquid"
   },
   {
     "file": "Glossophaga soricina 1.jpg",
     "attribution": "Betty Wills (CC BY-SA)",
     "common_name": "Pallas's long-tongued bat",
-    "scientific_name": "Glossophaga soricina"
+    "scientific_name": "Glossophaga soricina",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Glossophaga morenoi 1.jpg",
     "attribution": "Juan Cruzado Cortés (CC BY-SA)",
     "common_name": "Western long-tongued bat",
-    "scientific_name": "Glossophaga morenoi"
+    "scientific_name": "Glossophaga morenoi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Glossophaga commissarisi 1.jpg",
     "attribution": "Karin Schneeberger (CC BY-SA)",
     "common_name": "Commissaris's long-tongued bat",
-    "scientific_name": "Glossophaga commissarisi"
+    "scientific_name": "Glossophaga commissarisi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Glossophaga leachii 1.jpg",
     "attribution": "Carlos Funes (CC BY)",
     "common_name": "Gray long-tongued bat",
-    "scientific_name": "Glossophaga leachii"
+    "scientific_name": "Glossophaga leachii",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Choeronycteris mexicana 1.jpg",
     "attribution": "Ken Bosma (CC BY)",
     "common_name": "Mexican long-tongued bat",
-    "scientific_name": "Choeronycteris mexicana"
+    "scientific_name": "Choeronycteris mexicana",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Anoura geoffroyi 1.jpg",
     "attribution": "U.S. Geological Survey (public domain)",
     "common_name": "Geoffroy's tailless bat",
-    "scientific_name": "Anoura geoffroyi"
+    "scientific_name": "Anoura geoffroyi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Hylonycteris underwoodi 1.jpg",
     "attribution": "Karin Schneeberger (CC BY-SA)",
     "common_name": "Underwood's long-tongued bat",
-    "scientific_name": "Hylonycteris underwoodi"
+    "scientific_name": "Hylonycteris underwoodi",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Platalina genovensium 1.jpg",
     "attribution": "Juan A. Malo de Molina (CC BY-SA)",
     "common_name": "Long-snouted bat",
-    "scientific_name": "Platalina genovensium"
+    "scientific_name": "Platalina genovensium",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Lonchophylla robusta 1.jpg",
     "attribution": "Hans Hillewaert (CC BY-SA)",
     "common_name": "Orange nectar bat",
-    "scientific_name": "Lonchophylla robusta"
+    "scientific_name": "Lonchophylla robusta",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Lonchophylla dekeyseri 1.jpg",
     "attribution": "Hernani F. M. de Oliveira (CC BY)",
     "common_name": "Dekeyser's nectar bat",
-    "scientific_name": "Lonchophylla dekeyseri"
+    "scientific_name": "Lonchophylla dekeyseri",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Micronycteris megalotis 1.jpg",
     "attribution": "Dmil3422 (CC BY-SA)",
     "common_name": "Little big-eared bat",
-    "scientific_name": "Micronycteris megalotis"
+    "scientific_name": "Micronycteris megalotis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Micronycteris microtis 1.jpg",
     "attribution": "Christian Ziegler (CC BY)",
     "common_name": "Common big-eared bat",
-    "scientific_name": "Micronycteris microtis"
+    "scientific_name": "Micronycteris microtis",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Trinycteris nicefori 1.jpg",
     "attribution": "Edward Bell (CC BY)",
     "common_name": "Niceforo's big-eared bat",
-    "scientific_name": "Trinycteris nicefori"
+    "scientific_name": "Trinycteris nicefori",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Lophostoma brasiliense 1.jpg",
     "attribution": "Prof. Dr. Marco A. R. Mello (CC BY)",
     "common_name": "Pygmy round-eared bat",
-    "scientific_name": "Lophostoma brasiliense"
+    "scientific_name": "Lophostoma brasiliense",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Tonatia saurophila 1.jpg",
     "attribution": "Karin Schneeberger (CC BY-SA)",
     "common_name": "Stripe-headed round-eared bat",
-    "scientific_name": "Tonatia saurophila"
+    "scientific_name": "Tonatia saurophila",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Trachops cirrhosus 1.jpg",
     "attribution": "Karin Schneeberger (CC BY)",
     "common_name": "Fringe-lipped bat",
-    "scientific_name": "Trachops cirrhosus"
+    "scientific_name": "Trachops cirrhosus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Vampyrum spectrum 1.jpg",
     "attribution": "Marco Tschapka (CC BY-SA)",
     "common_name": "Spectral bat",
-    "scientific_name": "Vampyrum spectrum"
+    "scientific_name": "Vampyrum spectrum",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Phyllostomus hastatus 1.jpg",
     "attribution": "Karin Schneeberger (CC BY)",
     "common_name": "Greater spear-nosed bat",
-    "scientific_name": "Phyllostomus hastatus"
+    "scientific_name": "Phyllostomus hastatus",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Phyllostomus discolor 1.jpg",
     "attribution": "Karin Schneeberger (CC BY)",
     "common_name": "Pale spear-nosed bat",
-    "scientific_name": "Phyllostomus discolor"
+    "scientific_name": "Phyllostomus discolor",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Mimon crenulatum 1.jpg",
     "attribution": "Karin Schneeberger (CC BY-SA)",
     "common_name": "Striped hairy-nosed bat",
-    "scientific_name": "Mimon crenulatum"
+    "scientific_name": "Mimon crenulatum",
+    "image_description": "",
+    "image_description_users": ""
   },
   {
     "file": "Mimon bennettii 1.jpg",
     "attribution": "Nancy Simmons (public domain)",
     "common_name": "Golden bat",
-    "scientific_name": "Mimon bennettii"
+    "scientific_name": "Mimon bennettii",
+    "image_description": "",
+    "image_description_users": ""
   }
 ]
