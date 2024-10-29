@@ -1,6 +1,6 @@
 # 🦇 Mastodon Batbot
 
-**Follow [@batsbatsbats@botsin.space](https://botsin.space/@batsbatsbats) on the Fediverse!**
+**Follow [@batsbatsbats@social.beeps.gay](https://social.beeps.gay/@batsbatsbats) on the Fediverse!**
 
 A simple bit o' code that uses GitHub Actions to post a random, freely distributable bat picture onto a Mastodon account once an hour.
 
