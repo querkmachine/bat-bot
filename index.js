@@ -41,6 +41,7 @@ M.post("media", {
     M.post("statuses", {
       status: status,
       media_ids: [id],
+      visibility: "unlisted",
     })
       .then((res) => {
         console.log(res.data);
