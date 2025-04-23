@@ -27,5 +27,5 @@ If some metadata is incorrect, an image has been included that does not meet the
 You can get in touch by:
 
 - [Opening an issue on this GitHub repo](https://github.com/querkmachine/bat-bot/issues)
-- [Messaging me on my Mastodon account](https://chitter.xyz/@batbeeps)
+- [Messaging me on my Mastodon account](https://social.beeps.gay/@beeps)
 - [Emailing me](mailto:hi@berly.kim)
