@@ -3062,5 +3062,93 @@
     "scientific_name": "Mimon bennettii",
     "image_description": "",
     "image_description_users": []
+  },
+  {
+    "file": "Lasiurus cinereus 3.jpg",
+    "attribution": "U.S. Fish and Wildlife Service (public domain)",
+    "common_name": "Hoary bat",
+    "scientific_name": "Lasiurus cinereus",
+    "image_description": "A fluffy bat is looking towards the camera while being held by a gloved hand. It has light brown fur that becomes darker further from the body before ending with frosted white tips. It has a short snout and beady, black eyes. Its ears are large and rounded, but are mostly buried in its fur.",
+    "image_description_users": ["querkmachine"]
+  },
+  {
+    "file": "Myotis evotis 2.jpg",
+    "attribution": "U.S. Fish and Wildlife Service (public domain)",
+    "common_name": "Long-eared myotis",
+    "scientific_name": "Myotis evotis",
+    "image_description": "A small bat is being held by a gloved hand. It has light brown fur with dark brown wings and feet, and a dark brown face. Its wings are large, dark brown, and pointy. It has very small black eyes. Its mouth is open, as if screaming, exposing a number of pointed teeth.",
+    "image_description_users": ["querkmachine"]
+  },
+  {
+    "file": "Myotis evotis 3.jpg",
+    "attribution": "Cobun (CC BY)",
+    "common_name": "Long-eared myotis",
+    "scientific_name": "Myotis evotis",
+    "image_description": "A small bat laying atop some plastic equipment and a bundled rope. It has a brownish body with darker brown wings and face. It has very large, pointed ears with subtle ribbing inside. It has tiny black eyes. It appears to be looking up, mouth slightly agape, as if surprised.",
+    "image_description_users": ["querkmachine"]
+  },
+  {
+    "file": "Pteropus medius 5.jpg",
+    "attribution": "Badal Sarkar (CC BY-SA)",
+    "common_name": "Indian flying fox",
+    "scientific_name": "Pteropus medius",
+    "image_description": "A bat mid-flight during the daytime. It has reddish fur with grey skin, a dog-like snout, and very large, expressive brown eyes. Small, pointed ears stick out perpendicular to its head. It's lower body and feet are wet and matted.",
+    "image_description_users": ["querkmachine"]
+  },
+  {
+    "file": "Rousettus aegyptiacus 4.jpg",
+    "attribution": "Yaffa Phillips (CC BY-SA)",
+    "common_name": "Egyptian fruit bat",
+    "scientific_name": "Rousettus aegyptiacus",
+    "image_description": "The top of an archway of an old stone building, behind which dozens of bats can be seen roosting. All of them have brown bodies and black wings, with a few having visible black eyes and stubby, rounded snouts.",
+    "image_description_users": ["querkmachine"]
+  },
+  {
+    "file": "Pteropus vampyrus 4.jpg",
+    "attribution": "Andy Reago & Chrissy McClarren (CC BY)",
+    "common_name": "Large flying fox",
+    "scientific_name": "Pteropus vampyrus",
+    "image_description": "A bat is hanging from the branch of a leafy bush, looking around expectantly. It has a mostly black body except for a reddish tuft of fur around its neck. It has a long snout, large brown eyes, and small, rounded ears.",
+    "image_description_users": ["querkmachine"]
+  },
+  {
+    "file": "Rhynchonycteris naso 4.jpg",
+    "attribution": "Rhododendrites (CC BY-SA)",
+    "common_name": "Proboscis bat",
+    "scientific_name": "Rhynchonycteris naso",
+    "image_description": "Nine small bats are clinging onto the underside of a tree branch above a body of water. Each of them has piebald brown and white fur, camouflaging them perfectly against the branch. Those facing outwards have short, pointy snouts, small ears, and round, black eyes.",
+    "image_description_users": ["querkmachine"]
+  },
+  {
+    "file": "Vespertilio murinus 2.jpg",
+    "attribution": "Charles J. Sharp (CC BY-SA)",
+    "common_name": "Parti-coloured bat",
+    "scientific_name": "Vespertilio murinus",
+    "image_description": "A bat hangs upside down on the wood-panelled wall. It has brown wings and brown fur with white tips that becomes lighter on the underside of the body. It has a squashed muzzle, like a mastiff dog, and round, leathery ears.",
+    "image_description_users": ["querkmachine"]
+  },
+  {
+    "file": "Rhinolophus cornutus 1.jpg",
+    "attribution": "Mmsmr (public domain)",
+    "common_name": "Little Japanese horseshoe bat",
+    "scientific_name": "Rhinolophus cornutus",
+    "image_description": "A small, round bat is hanging from a rocky ceiling. It has black wings and beige fur that is slightly darker on the back than on the front. It has large, ridged ears and small, beady eyes. Its nose is large, flat, and round, with a pointed top that bends away from its face.",
+    "image_description_users": ["querkmachine"]
+  },
+  {
+    "file": "Nyctinomops macrotis 2.jpg",
+    "attribution": "National Park Service (public domain)",
+    "common_name": "Big free-tailed bat",
+    "scientific_name": "Nyctinomops macrotis",
+    "image_description": "A bat hangs from a tree branch, facing towards the camera. It has reddish-brown fur and black wings and face. Its ears are large and triangular. Its snout is short and squashed looking.",
+    "image_description_users": ["querkmachine"]
+  },
+  {
+    "file": "Parastrellus hesperus 2.jpg",
+    "attribution": "National Park Service (public domain)",
+    "common_name": "Canyon bat",
+    "scientific_name": "Parastrellus hesperus",
+    "image_description": "A very small bat is being softly held in a gloved hand. It has a dark brown face, ears, and wings, with a much more striking reddish-brown fur colour. It has quite a flat face, with large, ridged ears that have rounded tips. It has a quite contented facial expression.",
+    "image_description_users": ["querkmachine"]
   }
 ]
