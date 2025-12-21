@@ -156,40 +156,40 @@
     "attribution": "Muhammad Imam R (CC BY)",
     "common_name": "Black-capped fruit bat",
     "scientific_name": "Chironax melanocephalus",
-    "image_description": "",
-    "image_description_users": []
+    "image_description": "A very small dark grey bat hanging upside down from the stem of a leaf, wings partially wrapped around itself. It has lighter grey fur on its stomach, with proportionally large, round eyes, and prominent nostrils on a stubby muzzle.",
+    "image_description_users": ["querkmachine"]
   },
   {
     "file": "Cynopterus brachyotis 1.jpg",
     "attribution": "AntanO (CC BY-SA)",
     "common_name": "Lesser short-nosed fruit bat",
     "scientific_name": "Cynopterus brachyotis",
-    "image_description": "",
-    "image_description_users": []
+    "image_description": "A brown bat standing upright in the fork of a tree branch, each wing hanging onto one of the forks. The bat has reddish-brown fur and black wing membranes. It has a pointed snout with slightly darker fur, extruded nostrils, bulbous brown-grey eyes, and rounded pointy ears.",
+    "image_description_users": ["querkmachine"]
   },
   {
     "file": "Cynopterus brachyotis 2.jpg",
     "attribution": "AntanO (CC BY-SA)",
     "common_name": "Lesser short-nosed fruit bat",
     "scientific_name": "Cynopterus brachyotis",
-    "image_description": "",
-    "image_description_users": []
+    "image_description": "A closeup view of a bat in profile, showing the side of the muzzle and a light brown eye with a very small pupil. The fur is a grizzled mix of light brown with darker brown and light grey.",
+    "image_description_users": ["lightspill"]
   },
   {
     "file": "Cynopterus minutus 1.jpg",
     "attribution": "Wibowo Djatmiko (CC BY-SA)",
     "common_name": "Minute fruit bat",
     "scientific_name": "Cynopterus minutus",
-    "image_description": "",
-    "image_description_users": []
+    "image_description": "A bat being held with wings fully extended by a human. It has a mousey body with mostly grey-brown fur that becomes ginger around the shoulders. It has a black-furred head with a pointed snout; prominent nostrils; small, ridged ears; and round, black eyes. Its wings are black with dark pink fingers clearly visible. The bat's mouth is open, making it look like it's surprised.",
+    "image_description_users": ["querkmachine"]
   },
   {
     "file": "Cynopterus sphinx 1.jpg",
     "attribution": "Shantanu Kuveskar (CC BY-SA)",
     "common_name": "Greater short-nosed fruit bat",
     "scientific_name": "Cynopterus sphinx",
-    "image_description": "",
-    "image_description_users": []
+    "image_description": "A grey, brown and orange furred bat hangs upside down from the frond of a plant. Its face has prominently extruded nostrils and round reddish–brown eyes. Its wings are black.",
+    "image_description_users": ["querkmachine"]
   },
   {
     "file": "Cynopterus titthaecheilus titthaecheilus 1.jpg",
@@ -204,16 +204,16 @@
     "attribution": "Government of the Philippines (public domain)",
     "common_name": "Fischer's pygmy fruit bat",
     "scientific_name": "Haplonycteris fischeri",
-    "image_description": "",
-    "image_description_users": []
+    "image_description": "A small brown bat, about half the size of the palm of a hand, being held outstretched by a human. It has wiry grey fur and a small triangular head with tubular, splayed nostrils and small pointed ears. It has its eyes closed.",
+    "image_description_users": ["querkmachine"]
   },
   {
     "file": "Eidolon dupreanum 1.jpg",
     "attribution": "heinonlein (CC BY-SA)",
     "common_name": "Madagascan fruit bat",
     "scientific_name": "Eidolon dupreanum",
-    "image_description": "",
-    "image_description_users": []
+    "image_description": "Four identical-looking bats all roosting in the corner of a brick building. Each of them have large, elongated bodies and pale brown fur that becomes black around the face area. Their wings and feet are also black but are lighter around their fingers. They have dog-like faces, superficially resembling German Shepherds with brown eyes and ridged, black ears.",
+    "image_description_users": ["querkmachine"]
   },
   {
     "file": "Eidolon helvum 1.jpg",
@@ -436,16 +436,16 @@
     "attribution": "Alessandro Catenazzi (CC BY-SA)",
     "common_name": "Common vampire bat",
     "scientific_name": "Desmodus rotundus",
-    "image_description": "",
-    "image_description_users": []
+    "image_description": "A small dark brown bat clings to a rock wall. Its rounded belly is light grey in contrast and a nipple can be seen above one wing. The bat faces to the camera showing pointed ears that start at the sides of its black eyes and extend upwards to a point. Its nose is upturned and mouth slightly open, with very red gums or tongue showing and a thick pursed bottom lip.",
+    "image_description_users": ["aaronhowe78"]
   },
   {
     "file": "Desmodus rotundus 2.jpg",
     "attribution": "Uwe Schmidt (CC BY-SA)",
     "common_name": "Common vampire bat",
     "scientific_name": "Desmodus rotundus",
-    "image_description": "",
-    "image_description_users": []
+    "image_description": "A cluster of twelve bats hanging from a black, scaled surface. They are small with long extended arms, tightly held sharp ridged ears and small flattened noses. Where they have their mouths open, their bottom lips protrude and their sharp canine teeth are exposed against very pink tongues. Their eyes are black, with the reflection of the camera's flash appearing to give them pupils.",
+    "image_description_users": ["aaronhowe78"]
   },
   {
     "file": "Diaemus youngi 1.jpg",
@@ -2477,7 +2477,7 @@
     "common_name": "Large flying fox",
     "scientific_name": "Pteropus vampyrus",
     "image_description": "Close-up of a handsome bat hanging upside down, its wing wrapped around its body and looking at the viewer. The bat has black fur and wings, with reddish fur on the back of its head. It has large, expressive brown eyes, small pointed ears, and a dog-like nose.",
-    "image_description_users": ["aaronhowe66", "nevillepark"]
+    "image_description_users": ["aaronhowe78", "nevillepark"]
   },
   {
     "file": "Pteropus hypomelanus 2.jpg",
@@ -2724,8 +2724,8 @@
     "attribution": "Ria Tan (CC BY-NC-SA)",
     "common_name": "Lesser short-nosed fruit bat",
     "scientific_name": "Cynopterus brachyotis",
-    "image_description": "",
-    "image_description_users": []
+    "image_description": "A small bat hangs from a branch at night. It has thick legs with dark outer skin and pink inner skin. Its wings are partially covering its body, and are black with pink skin over the wing bones. Its fur is a pale brown colour and its head very large by comparison to its body. The bat has small rounded smooth ears and very large brown eyes with a tiny pupil. Its nose ends close to its eyes and has a split nostril, with ever so slightly ridged lips.",
+    "image_description_users": ["aaronhowe78"]
   },
   {
     "file": "Hipposideros commersoni 3.jpg",
@@ -2780,8 +2780,8 @@
     "attribution": "Robertsphotos1 (CC BY-NC-SA)",
     "common_name": "Common vampire bat",
     "scientific_name": "Desmodus rotundus",
-    "image_description": "",
-    "image_description_users": []
+    "image_description": "Two bats standing on a mottled brown and orange surface in front of a shallow bowl of dark red liquid. They're standing with their feet and the claw of the wings on the ground, creating a shape like an uppercase 'A'. They both have grey fur and pointed ears and noses, with one of the bats having its mouth open, exposing a pair of stubby fangs.",
+    "image_description_users": ["querkmachine"]
   },
   {
     "file": "Pteronotus personatus 1.jpg",
