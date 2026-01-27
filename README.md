@@ -1,5 +1,7 @@
 # 🦇 Mastodon Batbot
 
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/querkmachine/bat-bot/verify-images.yml)
+
 **Follow [@batsbatsbats@social.beeps.gay](https://social.beeps.gay/@batsbatsbats) on the Fediverse!**
 
 A simple bit o' code that uses GitHub Actions to post a random, freely distributable bat picture onto a Mastodon account once an hour.
@@ -19,6 +21,26 @@ Bats are neat as heck. After I left Twitter in favour of the fediverse, I missed
 **Scheduling:** The bot uses GitHub Actions to schedule posts once an hour. Actions, however, is not particularly prompt. It's more like joining the back of a queue once an hour, and the length of that queue could be different on different days and at different times of day. Given this is just a silly bot and I don't want to run my own daemon just for it, the goal is to be roughly every hour, but it's never going to be exact.
 
 **Alt text:** Manually collating hundreds of bat photographs, names, photographers and licensing information is already time consuming enough. Unfortunately, adding meaningful alt text for every single one of those photos is fairly low on the priority list. GitHub users can contribute alt text by [submitting an issue](https://github.com/querkmachine/bat-bot/issues/new/choose) or by clicking the link in the Mastodon post, but until then there's no alt text. It sucks, I know. I'm sorry.
+
+## Alt text leaderboard
+
+Thanks to the following people <small>(and me, I guess)</small> for submitting good quality alt text suggestions!
+
+|GitHub user|Merged|
+|:-|-:|
+|🥇 [@querkmachine](//github.com/querkmachine)|41|
+|🥈 [@aaronhowe78](//github.com/aaronhowe78)|40|
+|🥉 [@nevillepark](//github.com/nevillepark)|11|
+|[@brown-betty](//github.com/brown-betty)|9|
+|[@8ohm](//github.com/8ohm)|1|
+|[@dlbradford](//github.com/dlbradford)|1|
+|[@emsquarial](//github.com/emsquarial)|1|
+|[@lightspill](//github.com/lightspill)|1|
+|[@Monikae](//github.com/Monikae)|1|
+|[@sirlan-ff00ff](//github.com/sirlan-ff00ff)|1|
+|[@quicquid](//github.com/quicquid)|1|
+
+Accurate as of 27 January 2026.
 
 ## Questions, queries, issues, etc.
 
