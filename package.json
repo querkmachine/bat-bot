@@ -16,6 +16,6 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "mastodon": "^1.2.2",
-    "random": "^4.1.0"
+    "random": "^5.4.1"
   }
 }
