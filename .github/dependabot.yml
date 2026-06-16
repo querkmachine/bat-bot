@@ -1,0 +1,23 @@
+version: 2
+
+updates:
+  - package-ecosystem: npm
+    directory: /
+    reviewers: [querkmachine]
+    schedule:
+      interval: "cron"
+      cronjob: "0 4 * */1 6"
+
+  - package-ecosystem: github-actions
+    directory: /
+    reviewers: [querkmachine]
+    schedule:
+      interval: "cron"
+      cronjob: "0 4 * */1 6"
+
+  - package-ecosystem: github-actions
+    directory: /.github/workflows/actions/install-dependencies
+    reviewers: [querkmachine]
+    schedule:
+      interval: "cron"
+      cronjob: "0 4 * */1 6"
